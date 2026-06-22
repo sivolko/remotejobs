@@ -211,6 +211,15 @@
       metaTag.textContent = `${item.location} · ${item.companyType}`;
       tags.appendChild(metaTag);
 
+      if (item.status && item.status !== "ok") {
+        const statusTag = document.createElement("span");
+        statusTag.className = "tagStatus tagStatus-" + item.status;
+        statusTag.textContent =
+          item.status === "changed" ? "↻ site changed" : "⚠ link check failed";
+        statusTag.title = item.lastChecked ? `Last checked ${item.lastChecked}` : "";
+        tags.appendChild(statusTag);
+      }
+
       row.appendChild(tags);
       frag.appendChild(row);
     });
@@ -278,7 +287,20 @@
       return;
     }
     $("#totalCount").textContent = state.all.length;
+    renderLastVerified();
     renderAll();
+  }
+
+  function renderLastVerified() {
+    const dates = state.all.map((c) => c.lastChecked).filter(Boolean);
+    const note = $("#lastVerifiedNote");
+    if (!dates.length) {
+      note.hidden = true;
+      return;
+    }
+    const latest = dates.sort().slice(-1)[0];
+    note.hidden = false;
+    note.textContent = `Links checked daily · last run ${latest}`;
   }
 
   init();

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Remote//Index — a filterable directory of remote-friendly tech companies <br> Created by Shubhendu </title>
+<title>Remote//Index — a filterable directory of remote-friendly tech companies</title>
 <meta name="description" content="Browse remote-friendly tech companies by category, location and company type." />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -52,7 +52,10 @@
 
   <main class="ledger">
     <div class="ledgerHead">
-      <span id="resultsCount" class="resultsCount" aria-live="polite">—</span>
+      <div class="ledgerHeadLeft">
+        <span id="resultsCount" class="resultsCount" aria-live="polite">—</span>
+        <span id="lastVerifiedNote" class="lastVerifiedNote" hidden></span>
+      </div>
       <div class="sortRow">
         <label class="eyebrow" for="sortSelect">Sort</label>
         <select id="sortSelect">
