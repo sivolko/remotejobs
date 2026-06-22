@@ -1,0 +1,79 @@
+name: Daily freshness check
+
+on:
+  schedule:
+    # 04:15 UTC daily — adjust to taste, this is the only place the time lives.
+    - cron: "15 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run freshness check
+        run: node scripts/freshness-check.mjs
+
+      - name: Commit updated data
+        run: |
+          git config user.name "remote-index-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/companies.json data/flags.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: daily freshness check $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Ensure label exists
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create freshness-check --color FBCA04 \
+            --description "Daily company link/freshness check" --force || true
+
+      - name: Report flagged companies as an issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FLAG_COUNT=$(jq '.flags | length' data/flags.json)
+          CHECKED_AT=$(jq -r '.checkedAt' data/flags.json)
+          EXISTING=$(gh issue list --label freshness-check --state open --json number --jq '.[0].number')
+
+          if [ "$FLAG_COUNT" -gt 0 ]; then
+            {
+              echo "Freshness check for $CHECKED_AT flagged $FLAG_COUNT company link(s)."
+              echo
+              echo "| Company | Status | HTTP | Website |"
+              echo "|---|---|---|---|"
+              jq -r '.flags[] | "| \(.name) | \(.status) | \(.httpStatus // "-") | \(.website) |"' data/flags.json
+              echo
+              echo "_Sites with bot protection can false-positive as broken/unreachable — verify before removing an entry. Status also lives in \`data/companies.json\` per company._"
+            } > /tmp/issue-body.md
+
+            if [ -n "$EXISTING" ] && [ "$EXISTING" != "null" ]; then
+              gh issue edit "$EXISTING" --body-file /tmp/issue-body.md
+            else
+              gh issue create \
+                --title "Freshness check: $FLAG_COUNT flagged company link(s)" \
+                --body-file /tmp/issue-body.md \
+                --label freshness-check
+            fi
+          else
+            if [ -n "$EXISTING" ] && [ "$EXISTING" != "null" ]; then
+              gh issue comment "$EXISTING" --body "Freshness check for $CHECKED_AT: all clear. Closing."
+              gh issue close "$EXISTING"
+            fi
+          fi
