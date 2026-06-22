@@ -1,0 +1,89 @@
+{
+  "checkedAt": "2026-06-22",
+  "flags": [
+    {
+      "id": "hashicorp",
+      "name": "HashiCorp",
+      "website": "https://www.hashicorp.com/",
+      "status": "broken",
+      "httpStatus": 429
+    },
+    {
+      "id": "homeflic",
+      "name": "HomeFlicWeGrow",
+      "website": "https://www.homeflicwegrow.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "bharatpe",
+      "name": "BharatPe",
+      "website": "https://www.bharatpe.com",
+      "status": "broken",
+      "httpStatus": 403
+    },
+    {
+      "id": "datacamp",
+      "name": "DataCamp",
+      "website": "https://www.datacamp.com/",
+      "status": "broken",
+      "httpStatus": 403
+    },
+    {
+      "id": "etsy",
+      "name": "Etsy",
+      "website": "https://www.etsy.com/",
+      "status": "broken",
+      "httpStatus": 403
+    },
+    {
+      "id": "hackreactor",
+      "name": "Hack Reactor Remote",
+      "website": "https://www.hackreactor.com/remote/",
+      "status": "broken",
+      "httpStatus": 404
+    },
+    {
+      "id": "fiverr",
+      "name": "Fiverr",
+      "website": "https://www.fiverr.com/",
+      "status": "broken",
+      "httpStatus": 403
+    },
+    {
+      "id": "18f",
+      "name": "18F",
+      "website": "https://18f.gsa.gov/",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "epam",
+      "name": "Epam",
+      "website": "https://epam.com/",
+      "status": "broken",
+      "httpStatus": 403
+    },
+    {
+      "id": "lullabot",
+      "name": "Lullabot",
+      "website": "https://www.lullabot.com/",
+      "status": "broken",
+      "httpStatus": 403
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "website": "https://www.ibm.com",
+      "status": "broken",
+      "httpStatus": 404
+    },
+    {
+      "id": "epicgames",
+      "name": "Epic Games",
+      "website": "https://www.epicgames.com/site/en-US/careers",
+      "status": "broken",
+      "httpStatus": 403
+    }
+  ]
+}
