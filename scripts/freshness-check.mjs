@@ -49,6 +49,9 @@ async function checkOne(company) {
     clearTimeout(timer);
 
     if (!res.ok) {
+      if (res.status === 401 || res.status === 403 || res.status === 429) {
+        return { status: "blocked", httpStatus: res.status };
+      }
       return { status: "broken", httpStatus: res.status };
     }
 
@@ -85,7 +88,7 @@ async function main() {
       c.status = result.status;
       if (result.contentHash) c.contentHash = result.contentHash;
 
-      if (result.status !== "ok") {
+      if (result.status !== "ok" && result.status !== "blocked") {
         flags.push({
           id: c.id,
           name: c.name,

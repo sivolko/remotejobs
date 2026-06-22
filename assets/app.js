@@ -211,7 +211,7 @@
       metaTag.textContent = `${item.location} · ${item.companyType}`;
       tags.appendChild(metaTag);
 
-      if (item.status && item.status !== "ok") {
+      if (item.status === "broken" || item.status === "unreachable" || item.status === "changed") {
         const statusTag = document.createElement("span");
         statusTag.className = "tagStatus tagStatus-" + item.status;
         statusTag.textContent =

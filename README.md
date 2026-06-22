@@ -24,7 +24,7 @@ A filterable directory of remote-friendly tech companies — browse by **categor
 │   ├── style.css             # design tokens + layout
 │   └── app.js                  # data loading, filtering, rendering
 ├── data/
-│   ├── companies.json        # the dataset (104 companies)
+│   ├── companies.json        # the dataset (103 companies)
 │   └── flags.json              # written daily by the freshness check
 ├── scripts/
 │   └── freshness-check.mjs   # daily link/content check, no dependencies
@@ -40,7 +40,7 @@ A filterable directory of remote-friendly tech companies — browse by **categor
 A GitHub Actions workflow (`.github/workflows/freshness-check.yml`) runs once a day and:
 
 1. Visits each company's own `website` URL (no third-party APIs, no upstream repo — your data is the source).
-2. Records `lastChecked`, `status` (`ok` / `changed` / `broken` / `unreachable`), and a content hash per company in `data/companies.json`.
+2. Records `lastChecked`, `status` (`ok` / `changed` / `blocked` / `broken` / `unreachable`), and a content hash per company in `data/companies.json`. `blocked` (401/403/429) means bot protection, not a dead company — it's recorded but not flagged.
 3. Commits the update if anything changed.
 4. Opens or updates a single GitHub issue (label `freshness-check`) listing flagged companies, and closes it automatically once everything's clear.
 
@@ -48,7 +48,7 @@ This keeps the *existing* list honest (dead links, sites that changed) — it do
 
 Run it manually: **Actions → Daily freshness check → Run workflow**. Trigger it locally with `node scripts/freshness-check.mjs`.
 
-Some sites with bot protection will false-positive as `broken`/`unreachable` — treat flags as a prompt to check, not as ground truth.
+A 404 can occasionally still mask bot protection (e.g. some WAFs return 404 instead of 403 to obscure blocking) — treat flags as a prompt to check, not as ground truth.
 
 ## Data schema
 
