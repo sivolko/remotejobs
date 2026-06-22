@@ -1,8 +1,8 @@
 # Remote//Index
 
-A filterable directory of remote-friendly tech companies — browse by **category**, **location**, and **company type**, with live search and faceted counts. Static site, no build step, no framework.
+**Designed by [Shubhendu](https://github.com/sivolko)**
 
-Inspired by [A-Hemeda/Remote-Jobs-List](https://github.com/A-Hemeda/Remote-Jobs-List), reshaped from a single markdown table into a faceted, searchable index with a curated dataset.
+A filterable directory of remote-friendly tech companies — browse by **category**, **location**, and **company type**, with live search and faceted counts. Static site, no build step, no framework.
 
 **Live demo:** `https://sivolko.github.io/remotejobs/` (enable GitHub Pages first — see below)
 
@@ -93,10 +93,6 @@ python3 -m http.server 8080
 ## Contributing
 
 Add a company by appending an object to `data/companies.json` following the schema above. Keep `blurb` to one factual sentence. Open a PR — no other code changes needed for a data-only addition.
-
-## Credit
-
-Company list curated in the spirit of [A-Hemeda/Remote-Jobs-List](https://github.com/A-Hemeda/Remote-Jobs-List). Verify each company's current remote policy and openings directly before applying — directories age faster than hiring pages.
 
 ## License
 

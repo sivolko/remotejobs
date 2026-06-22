@@ -99,6 +99,14 @@ button{
 }
 .wordmark-slash{ color:var(--signal); }
 
+.byline{
+  font-family:var(--mono);
+  font-size:11px;
+  color:var(--faint);
+}
+.byline a{ color:var(--faint); }
+.byline a:hover{ color:var(--signal-ink); }
+
 .tagline{
   font-size:13px;
   color:var(--muted);
