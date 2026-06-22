@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Remote//Index — a filterable directory of remote-friendly tech companies</title>
+<meta name="description" content="Browse remote-friendly tech companies by category, location and company type." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-left">
+    <span class="wordmark">REMOTE<span class="wordmark-slash">//</span>INDEX</span>
+    <span class="tagline">a directory of <strong id="totalCount">—</strong> remote-friendly tech companies</span>
+  </div>
+  <div class="topbar-right">
+    <button id="filtersToggle" class="filtersToggle" aria-expanded="false" aria-controls="rail">
+      Filters <span id="activeFilterBadge" class="activeFilterBadge" hidden>0</span>
+    </button>
+  </div>
+</header>
+
+<div class="shell">
+
+  <aside class="rail" id="rail" aria-label="Filters">
+    <div class="railSection searchSection">
+      <label class="eyebrow" for="searchInput">Search</label>
+      <input id="searchInput" class="searchInput" type="text" placeholder="company, category, location…" autocomplete="off" />
+    </div>
+
+    <div class="railSection facetGroup" data-facet-key="category">
+      <div class="facetTitle"><span class="eyebrow">Category</span></div>
+      <div class="facetList" id="list-category"></div>
+    </div>
+
+    <div class="railSection facetGroup" data-facet-key="location">
+      <div class="facetTitle"><span class="eyebrow">Location</span></div>
+      <div class="facetList" id="list-location"></div>
+    </div>
+
+    <div class="railSection facetGroup" data-facet-key="companyType">
+      <div class="facetTitle"><span class="eyebrow">Company type</span></div>
+      <div class="facetList" id="list-companyType"></div>
+    </div>
+
+    <button id="clearFilters" class="clearBtn" type="button">Clear all filters</button>
+  </aside>
+
+  <main class="ledger">
+    <div class="ledgerHead">
+      <span id="resultsCount" class="resultsCount" aria-live="polite">—</span>
+      <div class="sortRow">
+        <label class="eyebrow" for="sortSelect">Sort</label>
+        <select id="sortSelect">
+          <option value="index">Index</option>
+          <option value="name">Name A–Z</option>
+        </select>
+      </div>
+    </div>
+
+    <div id="rows" class="rows" role="list"></div>
+
+    <div id="emptyState" class="emptyState" hidden>
+      <p class="emptyTitle">Nothing matches that combination.</p>
+      <p class="emptySub">Try clearing a filter or searching a broader term.</p>
+      <button id="emptyClear" class="clearBtn" type="button">Clear all filters</button>
+    </div>
+  </main>
+
+</div>
+
+<footer class="footer">
+  <p>
+    Built by <a href="https://github.com/sivolko" target="_blank" rel="noopener">sivolko</a>.
+    Company list is a curated subset in the spirit of
+    <a href="https://github.com/A-Hemeda/Remote-Jobs-List" target="_blank" rel="noopener">A-Hemeda/Remote-Jobs-List</a>,
+    re-indexed with category, location and company-type facets.
+    Verify remote policy and openings directly with each company before applying.
+  </p>
+</footer>
+
+<div class="scrim" id="scrim" hidden></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
