@@ -1,12 +1,61 @@
 {
-  "checkedAt": "2026-06-22",
+  "checkedAt": "2026-06-23",
   "flags": [
     {
-      "id": "hashicorp",
-      "name": "HashiCorp",
-      "website": "https://www.hashicorp.com/",
-      "status": "broken",
-      "httpStatus": 429
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "dashlane",
+      "name": "Dashlane",
+      "website": "https://dashlane.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "homeflic",
@@ -16,60 +65,53 @@
       "error": "fetch failed"
     },
     {
-      "id": "bharatpe",
-      "name": "BharatPe",
-      "website": "https://www.bharatpe.com",
-      "status": "broken",
-      "httpStatus": 403
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
-      "id": "datacamp",
-      "name": "DataCamp",
-      "website": "https://www.datacamp.com/",
-      "status": "broken",
-      "httpStatus": 403
+      "id": "basecamp",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
-      "id": "etsy",
-      "name": "Etsy",
-      "website": "https://www.etsy.com/",
-      "status": "broken",
-      "httpStatus": 403
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
-      "id": "hackreactor",
-      "name": "Hack Reactor Remote",
-      "website": "https://www.hackreactor.com/remote/",
-      "status": "broken",
-      "httpStatus": 404
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
-      "id": "fiverr",
-      "name": "Fiverr",
-      "website": "https://www.fiverr.com/",
-      "status": "broken",
-      "httpStatus": 403
+      "id": "labelbox",
+      "name": "Labelbox",
+      "website": "https://labelbox.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
-      "id": "18f",
-      "name": "18F",
-      "website": "https://18f.gsa.gov/",
-      "status": "unreachable",
-      "error": "fetch failed"
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "website": "https://www.godaddy.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
-      "id": "epam",
-      "name": "Epam",
-      "website": "https://epam.com/",
-      "status": "broken",
-      "httpStatus": 403
-    },
-    {
-      "id": "lullabot",
-      "name": "Lullabot",
-      "website": "https://www.lullabot.com/",
-      "status": "broken",
-      "httpStatus": 403
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "ibm",
@@ -79,11 +121,32 @@
       "httpStatus": 404
     },
     {
-      "id": "epicgames",
-      "name": "Epic Games",
-      "website": "https://www.epicgames.com/site/en-US/careers",
-      "status": "broken",
-      "httpStatus": 403
+      "id": "crazygames",
+      "name": "CrazyGames",
+      "website": "https://www.crazygames.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bandcamp",
+      "name": "Bandcamp",
+      "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
