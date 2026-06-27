@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-06-26",
+  "checkedAt": "2026-06-27",
   "flags": [
     {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "1password",
-      "name": "1Password",
-      "website": "https://www.1password.com",
-      "status": "changed",
-      "httpStatus": 200
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "broken",
+      "httpStatus": 415
     },
     {
       "id": "fingerprint",
@@ -37,16 +37,16 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "bill",
-      "name": "Bill",
-      "website": "https://www.bill.com/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,16 +58,30 @@
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,13 +100,6 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "atlassian",
       "name": "Atlassian",
       "website": "https://www.atlassian.com/",
@@ -100,16 +107,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
+      "id": "imaginelearning",
+      "name": "Imagine Learning",
+      "website": "https://www.imaginelearning.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,9 +121,9 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
+      "id": "cognizant",
+      "name": "Cognizant",
+      "website": "https://www.cognizant.com/in/en",
       "status": "changed",
       "httpStatus": 200
     },
@@ -131,6 +131,20 @@
       "id": "bairesdev",
       "name": "Bairesdev",
       "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,23 +170,9 @@
       "httpStatus": 200
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     }
