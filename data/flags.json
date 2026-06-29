@@ -1,17 +1,10 @@
 {
-  "checkedAt": "2026-06-28",
+  "checkedAt": "2026-06-29",
   "flags": [
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -23,23 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,6 +37,20 @@
       "error": "fetch failed"
     },
     {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -65,9 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "atlassian",
-      "name": "Atlassian",
-      "website": "https://www.atlassian.com/",
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,9 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
