@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-06-29",
+  "checkedAt": "2026-06-30",
   "flags": [
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -12,6 +19,13 @@
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,11 +44,11 @@
       "httpStatus": 200
     },
     {
-      "id": "homeflic",
-      "name": "HomeFlicWeGrow",
-      "website": "https://www.homeflicwegrow.com/",
-      "status": "unreachable",
-      "error": "fetch failed"
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "intercom",
@@ -51,6 +65,20 @@
       "httpStatus": 200
     },
     {
+      "id": "homeflic",
+      "name": "HomeFlicWeGrow",
+      "website": "https://www.homeflicwegrow.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -58,9 +86,16 @@
       "httpStatus": 200
     },
     {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +107,30 @@
       "httpStatus": 200
     },
     {
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "bairesdev",
       "name": "Bairesdev",
       "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,9 +142,23 @@
       "httpStatus": 404
     },
     {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "crazygames",
       "name": "CrazyGames",
       "website": "https://www.crazygames.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -105,6 +175,13 @@
       "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "unreachable",
+      "error": "This operation was aborted"
     }
   ]
 }
