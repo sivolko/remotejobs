@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-01",
+  "checkedAt": "2026-07-02",
   "flags": [
     {
       "id": "digitalocean",
@@ -12,6 +12,27 @@
       "id": "circleci",
       "name": "CircleCI",
       "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "broken",
+      "httpStatus": 415
+    },
+    {
+      "id": "1password",
+      "name": "1Password",
+      "website": "https://www.1password.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,23 +51,9 @@
       "httpStatus": 200
     },
     {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,9 +65,9 @@
       "httpStatus": 200
     },
     {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,9 +86,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +100,37 @@
       "httpStatus": 200
     },
     {
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,30 +149,16 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "ibm",
-      "name": "IBM",
-      "website": "https://www.ibm.com",
-      "status": "broken",
-      "httpStatus": 404
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
+      "id": "discord",
+      "name": "Discord",
+      "website": "https://discord.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,9 +170,23 @@
       "httpStatus": 200
     },
     {
+      "id": "ibm",
+      "name": "IBM",
+      "website": "https://www.ibm.com",
+      "status": "broken",
+      "httpStatus": 404
+    },
+    {
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
