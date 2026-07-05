@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-04",
+  "checkedAt": "2026-07-05",
   "flags": [
     {
       "id": "fingerprint",
@@ -23,16 +23,16 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +44,16 @@
       "error": "fetch failed"
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,16 +65,16 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cognizant",
-      "name": "Cognizant",
-      "website": "https://www.cognizant.com/in/en",
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,9 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
+      "id": "evilmartians",
+      "name": "Evil Martians",
+      "website": "https://evilmartians.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -96,13 +96,6 @@
       "id": "bairesdev",
       "name": "Bairesdev",
       "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
