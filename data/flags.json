@@ -1,10 +1,66 @@
 {
-  "checkedAt": "2026-07-07",
+  "checkedAt": "2026-07-08",
   "flags": [
     {
-      "id": "cofense",
-      "name": "Cofense",
-      "website": "https://cofense.com",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fastly",
+      "name": "Fastly",
+      "website": "https://www.fastly.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "canonical",
+      "name": "Canonical",
+      "website": "https://www.canonical.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "ipinfo",
+      "name": "IPInfo",
+      "website": "https://ipinfo.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "letsencrypt",
+      "name": "Let's Encrypt",
+      "website": "https://letsencrypt.org",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,9 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,9 +93,16 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,13 +128,6 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -79,16 +135,16 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "atlassian",
-      "name": "Atlassian",
-      "website": "https://www.atlassian.com/",
+      "id": "khanacademy",
+      "name": "Khan Academy",
+      "website": "https://www.khanacademy.org/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,16 +156,16 @@
       "httpStatus": 200
     },
     {
-      "id": "godaddy",
-      "name": "GoDaddy",
-      "website": "https://www.godaddy.com/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "website": "https://www.godaddy.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,13 +184,6 @@
       "httpStatus": 404
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "crazygames",
       "name": "CrazyGames",
       "website": "https://www.crazygames.com",
@@ -149,16 +198,16 @@
       "httpStatus": 200
     },
     {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
     }
