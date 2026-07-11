@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-10",
+  "checkedAt": "2026-07-11",
   "flags": [
     {
       "id": "digitalocean",
@@ -16,30 +16,16 @@
       "httpStatus": 200
     },
     {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "grafana",
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "jupiterone",
-      "name": "JupiterOne",
-      "website": "https://www.jupiterone.com/careers/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
+      "id": "canonical",
+      "name": "Canonical",
+      "website": "https://www.canonical.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,9 +44,9 @@
       "httpStatus": 200
     },
     {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,20 +58,6 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "deel",
       "name": "Deel",
       "website": "http://www.deel.com/",
@@ -93,9 +65,9 @@
       "httpStatus": 200
     },
     {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,16 +79,23 @@
       "error": "fetch failed"
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "asana",
-      "name": "Asana",
-      "website": "https://asana.com/",
+      "id": "basecamp",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clickup",
+      "name": "ClickUp",
+      "website": "https://clickup.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,9 +107,9 @@
       "httpStatus": 200
     },
     {
-      "id": "khanacademy",
-      "name": "Khan Academy",
-      "website": "https://www.khanacademy.org/",
+      "id": "bharatpe",
+      "name": "BharatPe",
+      "website": "https://www.bharatpe.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,16 +121,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "greenstitch",
-      "name": "GreenStitch.io",
-      "website": "https://greenstitch.io",
+      "id": "imaginelearning",
+      "name": "Imagine Learning",
+      "website": "https://www.imaginelearning.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,23 +135,9 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -191,13 +149,6 @@
       "httpStatus": 404
     },
     {
-      "id": "bandcamp",
-      "name": "Bandcamp",
-      "website": "https://bandcamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "crazygames",
       "name": "CrazyGames",
       "website": "https://www.crazygames.com",
@@ -205,23 +156,23 @@
       "httpStatus": 200
     },
     {
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bandcamp",
+      "name": "Bandcamp",
+      "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "caremessage",
-      "name": "CareMessage",
-      "website": "https://caremessage.org/careers/",
       "status": "changed",
       "httpStatus": 200
     }
