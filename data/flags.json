@@ -1,31 +1,10 @@
 {
-  "checkedAt": "2026-07-11",
+  "checkedAt": "2026-07-12",
   "flags": [
     {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "canonical",
-      "name": "Canonical",
-      "website": "https://www.canonical.com/",
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,20 +37,6 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "homeflic",
       "name": "HomeFlicWeGrow",
       "website": "https://www.homeflicwegrow.com/",
@@ -86,16 +51,9 @@
       "httpStatus": 200
     },
     {
-      "id": "basecamp",
-      "name": "Basecamp",
-      "website": "https://basecamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "clickup",
-      "name": "ClickUp",
-      "website": "https://clickup.com/",
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,13 +65,6 @@
       "httpStatus": 200
     },
     {
-      "id": "bharatpe",
-      "name": "BharatPe",
-      "website": "https://www.bharatpe.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -121,23 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -152,13 +89,6 @@
       "id": "crazygames",
       "name": "CrazyGames",
       "website": "https://www.crazygames.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
