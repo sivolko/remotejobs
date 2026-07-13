@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-07-12",
+  "checkedAt": "2026-07-13",
   "flags": [
     {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "broken",
+      "httpStatus": 415
     },
     {
       "id": "coinbase",
@@ -19,6 +19,13 @@
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,9 +51,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,9 +65,9 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
+      "id": "imaginelearning",
+      "name": "Imagine Learning",
+      "website": "https://www.imaginelearning.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -75,6 +82,27 @@
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
