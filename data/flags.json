@@ -1,94 +1,10 @@
 {
-  "checkedAt": "2026-07-18",
+  "checkedAt": "2026-07-19",
   "flags": [
-    {
-      "id": "gitlab",
-      "name": "GitLab",
-      "website": "https://about.gitlab.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "datadog",
-      "name": "Datadog",
-      "website": "https://www.datadoghq.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "elastic",
-      "name": "Elastic",
-      "website": "https://www.elastic.co/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "eyeo",
-      "name": "eyeo (Adblock Plus)",
-      "website": "https://eyeo.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "jupiterone",
-      "name": "JupiterOne",
-      "website": "https://www.jupiterone.com/careers/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "fingerprint",
       "name": "Fingerprint",
       "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "ipinfo",
-      "name": "IPInfo",
-      "website": "https://ipinfo.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,16 +23,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,27 +37,6 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "homeflic",
       "name": "HomeFlicWeGrow",
       "website": "https://www.homeflicwegrow.com/",
@@ -156,79 +44,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "asana",
       "name": "Asana",
       "website": "https://asana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "basecamp",
-      "name": "Basecamp",
-      "website": "https://basecamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -240,16 +58,16 @@
       "httpStatus": 200
     },
     {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -261,9 +79,9 @@
       "httpStatus": 404
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -285,13 +103,6 @@
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     }
