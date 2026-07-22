@@ -1,31 +1,10 @@
 {
-  "checkedAt": "2026-07-21",
+  "checkedAt": "2026-07-22",
   "flags": [
     {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,9 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "1password",
-      "name": "1Password",
-      "website": "https://www.1password.com",
+      "id": "ipinfo",
+      "name": "IPInfo",
+      "website": "https://ipinfo.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,6 +37,27 @@
       "httpStatus": 200
     },
     {
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "deel",
       "name": "Deel",
       "website": "http://www.deel.com/",
@@ -72,23 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "fyle",
+      "name": "Fyle",
+      "website": "https://www.fylehq.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,9 +86,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,20 +114,6 @@
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bigcartel",
-      "name": "Big Cartel",
-      "website": "https://www.bigcartel.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -149,37 +121,16 @@
       "httpStatus": 200
     },
     {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -189,13 +140,6 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
