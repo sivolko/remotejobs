@@ -1,10 +1,31 @@
 {
-  "checkedAt": "2026-07-22",
+  "checkedAt": "2026-07-23",
   "flags": [
     {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cofense",
+      "name": "Cofense",
+      "website": "https://cofense.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -12,13 +33,6 @@
       "id": "fingerprint",
       "name": "Fingerprint",
       "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "ipinfo",
-      "name": "IPInfo",
-      "website": "https://ipinfo.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,30 +51,9 @@
       "httpStatus": 200
     },
     {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "chainlink",
+      "name": "ChainLink Labs",
+      "website": "https://chainlinklabs.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +65,30 @@
       "httpStatus": 200
     },
     {
-      "id": "fyle",
-      "name": "Fyle",
-      "website": "https://www.fylehq.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "website": "https://www.mailerlite.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,18 +100,18 @@
       "error": "fetch failed"
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "bharatpe",
       "name": "BharatPe",
       "website": "https://www.bharatpe.com",
       "status": "broken",
       "httpStatus": 503
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "asana",
@@ -114,6 +128,20 @@
       "httpStatus": 200
     },
     {
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -121,16 +149,30 @@
       "httpStatus": 200
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
+      "id": "evilmartians",
+      "name": "Evil Martians",
+      "website": "https://evilmartians.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -140,6 +182,20 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -166,6 +222,20 @@
       "id": "airtreks",
       "name": "AirTreks",
       "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "healthfinch",
+      "name": "Healthfinch",
+      "website": "https://www.healthfinch.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
       "status": "changed",
       "httpStatus": 200
     }
