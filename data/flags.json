@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-24",
+  "checkedAt": "2026-07-25",
   "flags": [
     {
       "id": "circleci",
@@ -9,37 +9,9 @@
       "httpStatus": 200
     },
     {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "grafana",
       "name": "Grafana Labs",
       "website": "https://grafana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "elastic",
-      "name": "Elastic",
-      "website": "https://www.elastic.co/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,9 +30,16 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,16 +51,16 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +72,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,20 +86,6 @@
       "httpStatus": 503
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "basecamp",
-      "name": "Basecamp",
-      "website": "https://basecamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -128,16 +93,16 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
+      "id": "cognizant",
+      "name": "Cognizant",
+      "website": "https://www.cognizant.com/in/en",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,9 +114,16 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
