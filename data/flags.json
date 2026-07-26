@@ -1,24 +1,10 @@
 {
-  "checkedAt": "2026-07-25",
+  "checkedAt": "2026-07-26",
   "flags": [
     {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,23 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bill",
-      "name": "Bill",
-      "website": "https://www.bill.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,9 +30,23 @@
       "httpStatus": 200
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intuit",
+      "name": "Intuit Inc.",
+      "website": "https://www.intuit.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -70,13 +56,6 @@
       "website": "https://www.homeflicwegrow.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "bharatpe",
@@ -93,16 +72,23 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cognizant",
-      "name": "Cognizant",
-      "website": "https://www.cognizant.com/in/en",
+      "id": "generalassembly",
+      "name": "General Assembly",
+      "website": "https://generalassemb.ly/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cfpb",
+      "name": "Consumer Financial Protection Bureau",
+      "website": "https://www.consumerfinance.gov",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,16 +100,16 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
