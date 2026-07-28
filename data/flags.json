@@ -1,17 +1,17 @@
 {
-  "checkedAt": "2026-07-27",
+  "checkedAt": "2026-07-28",
   "flags": [
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -23,9 +23,30 @@
       "httpStatus": 200
     },
     {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "chainlink",
+      "name": "ChainLink Labs",
+      "website": "https://chainlinklabs.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,16 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
+      "id": "hubspot",
+      "name": "HubSpot",
+      "website": "https://www.hubspot.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,6 +86,20 @@
       "httpStatus": 503
     },
     {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -86,23 +114,9 @@
       "httpStatus": 200
     },
     {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,6 +135,20 @@
       "httpStatus": 200
     },
     {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "crazygames",
       "name": "CrazyGames",
       "website": "https://www.crazygames.com",
@@ -135,16 +163,16 @@
       "httpStatus": 200
     },
     {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
     },
