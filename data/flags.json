@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-07-28",
+  "checkedAt": "2026-07-29",
   "flags": [
     {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
+      "id": "grafana",
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,9 +23,9 @@
       "httpStatus": 200
     },
     {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "1password",
+      "name": "1Password",
+      "website": "https://www.1password.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,6 +37,20 @@
       "httpStatus": 200
     },
     {
+      "id": "dashlane",
+      "name": "Dashlane",
+      "website": "https://dashlane.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "chainlink",
       "name": "ChainLink Labs",
       "website": "https://chainlinklabs.com/",
@@ -37,9 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -51,6 +72,20 @@
       "httpStatus": 200
     },
     {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "emsisoft",
       "name": "Emsisoft",
       "website": "https://www.emsisoft.com/",
@@ -58,9 +93,9 @@
       "httpStatus": 200
     },
     {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,13 +107,6 @@
       "error": "fetch failed"
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "bharatpe",
       "name": "BharatPe",
       "website": "https://www.bharatpe.com",
@@ -86,9 +114,9 @@
       "httpStatus": 503
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,9 +135,23 @@
       "httpStatus": 200
     },
     {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cratedb",
+      "name": "CrateDB",
+      "website": "https://cratedb.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,32 +163,18 @@
       "httpStatus": 200
     },
     {
-      "id": "ibm",
-      "name": "IBM",
-      "website": "https://www.ibm.com",
-      "status": "broken",
-      "httpStatus": 404
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "microsoft",
       "name": "Microsoft",
       "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "ibm",
+      "name": "IBM",
+      "website": "https://www.ibm.com",
+      "status": "broken",
+      "httpStatus": 404
     },
     {
       "id": "crazygames",
@@ -163,16 +191,16 @@
       "httpStatus": 200
     },
     {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -182,6 +210,13 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
