@@ -1,17 +1,31 @@
 {
-  "checkedAt": "2026-07-29",
+  "checkedAt": "2026-07-30",
   "flags": [
     {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
+      "id": "gitlab",
+      "name": "GitLab",
+      "website": "https://about.gitlab.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "grafana",
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -23,65 +37,16 @@
       "httpStatus": 200
     },
     {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "1password",
       "name": "1Password",
       "website": "https://www.1password.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "chainlink",
-      "name": "ChainLink Labs",
-      "website": "https://chainlinklabs.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bill",
-      "name": "Bill",
-      "website": "https://www.bill.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +58,30 @@
       "httpStatus": 200
     },
     {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,9 +100,9 @@
       "httpStatus": 503
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,13 +121,6 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -149,9 +128,16 @@
       "httpStatus": 200
     },
     {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
+      "id": "generalassembly",
+      "name": "General Assembly",
+      "website": "https://generalassemb.ly/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,9 +149,30 @@
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -198,25 +205,11 @@
       "httpStatus": 200
     },
     {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "healthfinch",
       "name": "Healthfinch",
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
