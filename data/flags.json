@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-03",
+  "checkedAt": "2026-08-04",
   "flags": [
     {
       "id": "digitalocean",
@@ -9,16 +9,30 @@
       "httpStatus": 200
     },
     {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "letsencrypt",
+      "name": "Let's Encrypt",
+      "website": "https://letsencrypt.org",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +58,23 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,16 +86,23 @@
       "error": "fetch failed"
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "asana",
-      "name": "Asana",
-      "website": "https://asana.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +121,9 @@
       "httpStatus": 503
     },
     {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -110,6 +138,20 @@
       "id": "bairesdev",
       "name": "Bairesdev",
       "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -138,6 +180,13 @@
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
