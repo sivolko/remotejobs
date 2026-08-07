@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-06",
+  "checkedAt": "2026-08-07",
   "flags": [
     {
       "id": "digitalocean",
@@ -9,30 +9,9 @@
       "httpStatus": 200
     },
     {
-      "id": "fastly",
-      "name": "Fastly",
-      "website": "https://www.fastly.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "elastic",
-      "name": "Elastic",
-      "website": "https://www.elastic.co/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "datadog",
-      "name": "Datadog",
-      "website": "https://www.datadoghq.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,13 +23,6 @@
       "httpStatus": 200
     },
     {
-      "id": "ipinfo",
-      "name": "IPInfo",
-      "website": "https://ipinfo.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "fingerprint",
       "name": "Fingerprint",
       "website": "https://fingerprint.com",
@@ -58,9 +30,9 @@
       "httpStatus": 200
     },
     {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "1password",
+      "name": "1Password",
+      "website": "https://www.1password.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,16 +44,23 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "chainlink",
+      "name": "ChainLink Labs",
+      "website": "https://chainlinklabs.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,16 +72,23 @@
       "httpStatus": 200
     },
     {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,16 +100,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "bharatpe",
-      "name": "BharatPe",
-      "website": "https://www.bharatpe.com",
-      "status": "broken",
-      "httpStatus": 503
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,23 +114,16 @@
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
+      "id": "bharatpe",
+      "name": "BharatPe",
+      "website": "https://www.bharatpe.com",
+      "status": "broken",
+      "httpStatus": 503
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,9 +135,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cognizant",
-      "name": "Cognizant",
-      "website": "https://www.cognizant.com/in/en",
+      "id": "luxoft",
+      "name": "Luxoft",
+      "website": "https://www.luxoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -177,32 +149,11 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -226,6 +177,13 @@
       "httpStatus": 200
     },
     {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "healthfinch",
       "name": "Healthfinch",
       "website": "https://www.healthfinch.com/",
@@ -233,9 +191,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
+      "id": "caremessage",
+      "name": "CareMessage",
+      "website": "https://caremessage.org/careers/",
       "status": "changed",
       "httpStatus": 200
     }
