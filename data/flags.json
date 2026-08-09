@@ -1,24 +1,10 @@
 {
-  "checkedAt": "2026-08-08",
+  "checkedAt": "2026-08-09",
   "flags": [
     {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "jupiterone",
-      "name": "JupiterOne",
-      "website": "https://www.jupiterone.com/careers/",
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,16 +23,9 @@
       "httpStatus": 200
     },
     {
-      "id": "chainlink",
-      "name": "ChainLink Labs",
-      "website": "https://chainlinklabs.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,16 +37,16 @@
       "httpStatus": 200
     },
     {
-      "id": "bill",
-      "name": "Bill",
-      "website": "https://www.bill.com/",
-      "status": "changed",
-      "httpStatus": 200
+      "id": "homeflic",
+      "name": "HomeFlicWeGrow",
+      "website": "https://www.homeflicwegrow.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,27 +58,6 @@
       "httpStatus": 503
     },
     {
-      "id": "homeflic",
-      "name": "HomeFlicWeGrow",
-      "website": "https://www.homeflicwegrow.com/",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -107,9 +65,9 @@
       "httpStatus": 200
     },
     {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,23 +79,16 @@
       "httpStatus": 200
     },
     {
-      "id": "cognizant",
-      "name": "Cognizant",
-      "website": "https://www.cognizant.com/in/en",
-      "status": "changed",
-      "httpStatus": 200
+      "id": "luxoft",
+      "name": "Luxoft",
+      "website": "https://www.luxoft.com/",
+      "status": "broken",
+      "httpStatus": 502
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -147,6 +98,13 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -175,13 +133,6 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "episource",
-      "name": "Episource",
-      "website": "https://episource.com",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
