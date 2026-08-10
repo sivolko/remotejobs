@@ -1,6 +1,13 @@
 {
-  "checkedAt": "2026-08-09",
+  "checkedAt": "2026-08-10",
   "flags": [
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "fingerprint",
       "name": "Fingerprint",
@@ -23,6 +30,13 @@
       "httpStatus": 200
     },
     {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "deel",
       "name": "Deel",
       "website": "http://www.deel.com/",
@@ -30,9 +44,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -42,13 +56,6 @@
       "website": "https://www.homeflicwegrow.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "bharatpe",
@@ -61,13 +68,6 @@
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,25 +86,11 @@
       "httpStatus": 502
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
