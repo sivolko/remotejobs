@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16",
+  "checkedAt": "2026-08-17",
   "flags": [
     {
       "id": "coinbase",
@@ -37,6 +37,13 @@
       "error": "fetch failed"
     },
     {
+      "id": "bharatpe",
+      "name": "BharatPe",
+      "website": "https://www.bharatpe.com",
+      "status": "broken",
+      "httpStatus": 503
+    },
+    {
       "id": "intercom",
       "name": "Intercom",
       "website": "https://www.intercom.io/",
@@ -51,13 +58,6 @@
       "httpStatus": 200
     },
     {
-      "id": "bharatpe",
-      "name": "BharatPe",
-      "website": "https://www.bharatpe.com",
-      "status": "broken",
-      "httpStatus": 503
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -70,13 +70,6 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
