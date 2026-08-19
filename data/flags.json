@@ -1,10 +1,31 @@
 {
-  "checkedAt": "2026-08-18",
+  "checkedAt": "2026-08-19",
   "flags": [
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
       "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "website": "https://www.docker.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "grafana",
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -23,6 +44,13 @@
       "httpStatus": 200
     },
     {
+      "id": "ipinfo",
+      "name": "IPInfo",
+      "website": "https://ipinfo.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
@@ -37,13 +65,6 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "emsisoft",
       "name": "Emsisoft",
       "website": "https://www.emsisoft.com/",
@@ -51,16 +72,23 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,9 +107,23 @@
       "httpStatus": 503
     },
     {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,13 +142,6 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "bairesdev",
       "name": "Bairesdev",
       "website": "https://bairesdev.com/",
@@ -114,16 +149,9 @@
       "httpStatus": 200
     },
     {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,23 +177,9 @@
       "httpStatus": 200
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "inshorts",
       "name": "Inshorts",
       "website": "https://www.inshorts.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -182,6 +196,13 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
