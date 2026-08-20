@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-19",
+  "checkedAt": "2026-08-20",
   "flags": [
     {
       "id": "digitalocean",
@@ -9,37 +9,9 @@
       "httpStatus": 200
     },
     {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
+      "id": "duckduckgo",
+      "name": "DuckDuckGo",
+      "website": "https://duckduckgo.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -47,6 +19,13 @@
       "id": "ipinfo",
       "name": "IPInfo",
       "website": "https://ipinfo.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,20 +44,6 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bill",
-      "name": "Bill",
-      "website": "https://www.bill.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
@@ -89,6 +54,13 @@
       "id": "iohk",
       "name": "IOHK",
       "website": "https://iohk.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,9 +79,16 @@
       "httpStatus": 503
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "basecamp",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,16 +100,23 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "greenstitch",
+      "name": "GreenStitch.io",
+      "website": "https://greenstitch.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,9 +135,16 @@
       "httpStatus": 200
     },
     {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -161,6 +154,13 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -177,9 +177,9 @@
       "httpStatus": 200
     },
     {
-      "id": "inshorts",
-      "name": "Inshorts",
-      "website": "https://www.inshorts.com/",
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
       "status": "changed",
       "httpStatus": 200
     },
