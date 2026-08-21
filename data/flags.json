@@ -1,6 +1,13 @@
 {
-  "checkedAt": "2026-08-20",
+  "checkedAt": "2026-08-21",
   "flags": [
+    {
+      "id": "gitlab",
+      "name": "GitLab",
+      "website": "https://about.gitlab.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
@@ -9,9 +16,30 @@
       "httpStatus": 200
     },
     {
-      "id": "duckduckgo",
-      "name": "DuckDuckGo",
-      "website": "https://duckduckgo.com/",
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "anomali",
+      "name": "Anomali",
+      "website": "https://www.anomali.com/company/careers",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "auth0",
+      "name": "Auth0",
+      "website": "https://auth0.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,6 +58,13 @@
       "httpStatus": 200
     },
     {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
@@ -44,6 +79,13 @@
       "httpStatus": 200
     },
     {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
@@ -51,16 +93,16 @@
       "httpStatus": 200
     },
     {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "bharatpe",
+      "name": "BharatPe",
+      "website": "https://www.bharatpe.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,30 +114,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "bharatpe",
-      "name": "BharatPe",
-      "website": "https://www.bharatpe.com",
-      "status": "broken",
-      "httpStatus": 503
-    },
-    {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "basecamp",
       "name": "Basecamp",
       "website": "https://basecamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,9 +128,16 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,16 +163,23 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "lullabot",
+      "name": "Lullabot",
+      "website": "https://www.lullabot.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -154,13 +189,6 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -177,13 +205,6 @@
       "httpStatus": 200
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
@@ -196,13 +217,6 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
