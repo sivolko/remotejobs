@@ -1,20 +1,6 @@
 {
-  "checkedAt": "2026-08-22",
+  "checkedAt": "2026-08-23",
   "flags": [
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "jupiterone",
-      "name": "JupiterOne",
-      "website": "https://www.jupiterone.com/careers/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "coinbase",
       "name": "Coinbase",
@@ -51,30 +37,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,13 +51,6 @@
       "httpStatus": 200
     },
     {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -100,30 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cognizant",
-      "name": "Cognizant",
-      "website": "https://www.cognizant.com/in/en",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -133,6 +70,20 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -161,20 +112,6 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "caremessage",
-      "name": "CareMessage",
-      "website": "https://caremessage.org/careers/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
