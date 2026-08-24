@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-08-23",
+  "checkedAt": "2026-08-24",
   "flags": [
-    {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "kraken",
       "name": "Kraken",
@@ -16,16 +9,16 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,6 +37,20 @@
       "httpStatus": 200
     },
     {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -54,6 +61,13 @@
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -70,20 +84,6 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -112,6 +112,13 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
