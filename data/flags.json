@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-08-26",
+  "checkedAt": "2026-08-27",
   "flags": [
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "circleci",
       "name": "CircleCI",
@@ -16,9 +9,30 @@
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "jupiterone",
+      "name": "JupiterOne",
+      "website": "https://www.jupiterone.com/careers/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "auth0",
+      "name": "Auth0",
+      "website": "https://auth0.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,9 +44,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +79,23 @@
       "httpStatus": 200
     },
     {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
+      "id": "fyle",
+      "name": "Fyle",
+      "website": "https://www.fylehq.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -84,13 +105,6 @@
       "website": "https://www.homeflicwegrow.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "buffer",
@@ -121,13 +135,6 @@
       "httpStatus": 200
     },
     {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "greenstitch",
       "name": "GreenStitch.io",
       "website": "https://greenstitch.io",
@@ -149,9 +156,9 @@
       "httpStatus": 200
     },
     {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,9 +170,9 @@
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -175,6 +182,20 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -191,9 +212,9 @@
       "httpStatus": 200
     },
     {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -205,9 +226,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     }
