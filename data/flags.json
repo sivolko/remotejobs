@@ -1,34 +1,6 @@
 {
-  "checkedAt": "2026-08-28",
+  "checkedAt": "2026-08-29",
   "flags": [
-    {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "canonical",
-      "name": "Canonical",
-      "website": "https://www.canonical.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "kraken",
       "name": "Kraken",
@@ -44,44 +16,16 @@
       "httpStatus": 200
     },
     {
-      "id": "consensys",
-      "name": "ConsenSys",
-      "website": "https://consensys.net/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +37,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,13 +65,6 @@
       "httpStatus": 200
     },
     {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -135,9 +72,16 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -154,13 +98,6 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "crazygames",
-      "name": "CrazyGames",
-      "website": "https://www.crazygames.com",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "bandcamp",
@@ -182,13 +119,6 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
