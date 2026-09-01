@@ -1,10 +1,45 @@
 {
-  "checkedAt": "2026-08-31",
+  "checkedAt": "2026-09-01",
   "flags": [
+    {
+      "id": "gitlab",
+      "name": "GitLab",
+      "website": "https://about.gitlab.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "circleci",
       "name": "CircleCI",
       "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "auth0",
+      "name": "Auth0",
+      "website": "https://auth0.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,9 +65,23 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot",
+      "website": "https://www.hubspot.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -42,6 +91,13 @@
       "website": "https://www.homeflicwegrow.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "buffer",
@@ -58,9 +114,9 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +128,9 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "boldare",
+      "name": "Boldare",
+      "website": "https://boldare.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,18 +142,18 @@
       "httpStatus": 200
     },
     {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "crazygames",
@@ -114,13 +170,6 @@
       "httpStatus": 200
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
@@ -133,6 +182,13 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "unreachable",
+      "error": "This operation was aborted"
     }
   ]
 }
