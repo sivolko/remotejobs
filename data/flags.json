@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-09-01",
+  "checkedAt": "2026-09-02",
   "flags": [
     {
       "id": "gitlab",
       "name": "GitLab",
       "website": "https://about.gitlab.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,13 +44,6 @@
       "httpStatus": 200
     },
     {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "fingerprint",
       "name": "Fingerprint",
       "website": "https://fingerprint.com",
@@ -58,9 +58,30 @@
       "httpStatus": 200
     },
     {
+      "id": "dashlane",
+      "name": "Dashlane",
+      "website": "https://dashlane.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,9 +100,9 @@
       "httpStatus": 200
     },
     {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "website": "https://www.mailerlite.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,13 +114,6 @@
       "error": "fetch failed"
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "buffer",
       "name": "Buffer",
       "website": "https://buffer.com/",
@@ -107,9 +121,23 @@
       "httpStatus": 200
     },
     {
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,9 +156,23 @@
       "httpStatus": 200
     },
     {
-      "id": "boldare",
-      "name": "Boldare",
-      "website": "https://boldare.com",
+      "id": "evilmartians",
+      "name": "Evil Martians",
+      "website": "https://evilmartians.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,25 +184,11 @@
       "httpStatus": 200
     },
     {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "crazygames",
-      "name": "CrazyGames",
-      "website": "https://www.crazygames.com",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "bandcamp",
@@ -184,11 +212,18 @@
       "error": "fetch failed"
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "unreachable",
-      "error": "This operation was aborted"
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "caremessage",
+      "name": "CareMessage",
+      "website": "https://caremessage.org/careers/",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
