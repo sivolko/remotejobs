@@ -1,27 +1,6 @@
 {
-  "checkedAt": "2026-09-02",
+  "checkedAt": "2026-09-03",
   "flags": [
-    {
-      "id": "gitlab",
-      "name": "GitLab",
-      "website": "https://about.gitlab.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "circleci",
       "name": "CircleCI",
@@ -44,23 +23,9 @@
       "httpStatus": 200
     },
     {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +37,9 @@
       "httpStatus": 200
     },
     {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,32 +51,25 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "homeflic",
       "name": "HomeFlicWeGrow",
       "website": "https://www.homeflicwegrow.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clickup",
+      "name": "ClickUp",
+      "website": "https://clickup.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "buffer",
@@ -121,9 +79,9 @@
       "httpStatus": 200
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,9 +93,16 @@
       "httpStatus": 200
     },
     {
-      "id": "atlassian",
-      "name": "Atlassian",
-      "website": "https://www.atlassian.com/",
+      "id": "basecamp",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,20 +121,6 @@
       "httpStatus": 200
     },
     {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "gft",
       "name": "GFT",
       "website": "https://www.gft.com/",
@@ -177,9 +128,9 @@
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -210,13 +161,6 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "caremessage",
