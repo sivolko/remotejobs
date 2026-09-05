@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-09-04",
+  "checkedAt": "2026-09-05",
   "flags": [
     {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
+      "id": "docker",
+      "name": "Docker",
+      "website": "https://www.docker.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,30 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "crowdstrike",
       "name": "CrowdStrike",
       "website": "https://www.crowdstrike.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "jupiterone",
-      "name": "JupiterOne",
-      "website": "https://www.jupiterone.com/careers/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -54,13 +33,6 @@
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,23 +58,16 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "website": "https://www.mailerlite.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,9 +79,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,6 +93,13 @@
       "httpStatus": 200
     },
     {
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "doist",
       "name": "Doist",
       "website": "https://doist.com",
@@ -135,9 +107,9 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
+      "id": "imaginelearning",
+      "name": "Imagine Learning",
+      "website": "https://www.imaginelearning.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,6 +135,13 @@
       "httpStatus": 200
     },
     {
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
@@ -173,6 +152,13 @@
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
       "status": "changed",
       "httpStatus": 200
     },
