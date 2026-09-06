@@ -1,34 +1,6 @@
 {
-  "checkedAt": "2026-09-05",
+  "checkedAt": "2026-09-06",
   "flags": [
-    {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "coinbase",
       "name": "Coinbase",
@@ -44,30 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "emsisoft",
       "name": "Emsisoft",
       "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,34 +37,6 @@
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -124,20 +47,6 @@
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,13 +65,6 @@
       "httpStatus": 200
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
@@ -175,13 +77,6 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
