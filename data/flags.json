@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-07",
+  "checkedAt": "2026-09-08",
   "flags": [
     {
       "id": "cloudlinux",
@@ -23,6 +23,13 @@
       "httpStatus": 200
     },
     {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
@@ -30,16 +37,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "broken",
-      "httpStatus": 500
-    },
-    {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "consensys",
+      "name": "ConsenSys",
+      "website": "https://consensys.net/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -49,6 +49,13 @@
       "website": "https://www.homeflicwegrow.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "buffer",
@@ -61,13 +68,6 @@
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,9 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,11 +100,25 @@
       "httpStatus": 200
     },
     {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "bandcamp",
@@ -117,6 +131,13 @@
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
