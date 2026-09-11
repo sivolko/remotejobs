@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-09-10",
+  "checkedAt": "2026-09-11",
   "flags": [
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
       "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,16 +23,37 @@
       "httpStatus": 200
     },
     {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "1password",
-      "name": "1Password",
-      "website": "https://www.1password.com",
+      "id": "cofense",
+      "name": "Cofense",
+      "website": "https://cofense.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "eyeo",
+      "name": "eyeo (Adblock Plus)",
+      "website": "https://eyeo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "ipinfo",
+      "name": "IPInfo",
+      "website": "https://ipinfo.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -47,20 +75,6 @@
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "consensys",
-      "name": "ConsenSys",
-      "website": "https://consensys.net/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,6 +114,20 @@
       "httpStatus": 200
     },
     {
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -114,6 +142,13 @@
       "httpStatus": 200
     },
     {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -121,23 +156,23 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
+      "id": "cognizant",
+      "name": "Cognizant",
+      "website": "https://www.cognizant.com/in/en",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -147,20 +182,6 @@
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
-      "status": "changed",
-      "httpStatus": 200
     },
     {
       "id": "bandcamp",
