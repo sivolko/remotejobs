@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-09-11",
+  "checkedAt": "2026-09-12",
   "flags": [
     {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,46 +23,18 @@
       "httpStatus": 200
     },
     {
+      "id": "fastly",
+      "name": "Fastly",
+      "website": "https://www.fastly.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "elastic",
       "name": "Elastic",
       "website": "https://www.elastic.co/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cofense",
-      "name": "Cofense",
-      "website": "https://cofense.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "eyeo",
-      "name": "eyeo (Adblock Plus)",
-      "website": "https://eyeo.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "ipinfo",
-      "name": "IPInfo",
-      "website": "https://ipinfo.io/",
-      "status": "changed",
-      "httpStatus": 200
+      "status": "broken",
+      "httpStatus": 502
     },
     {
       "id": "fingerprint",
@@ -79,9 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +72,16 @@
       "httpStatus": 200
     },
     {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,6 +114,13 @@
       "httpStatus": 200
     },
     {
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -142,16 +135,16 @@
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
+      "id": "cratedb",
+      "name": "CrateDB",
+      "website": "https://cratedb.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "godaddy",
-      "name": "GoDaddy",
-      "website": "https://www.godaddy.com/",
+      "id": "bigcartel",
+      "name": "Big Cartel",
+      "website": "https://www.bigcartel.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,16 +156,37 @@
       "httpStatus": 200
     },
     {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "website": "https://www.godaddy.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
