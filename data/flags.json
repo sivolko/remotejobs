@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-09-13",
+  "checkedAt": "2026-09-14",
   "flags": [
     {
-      "id": "fastly",
-      "name": "Fastly",
-      "website": "https://www.fastly.com/",
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "duckduckgo",
+      "name": "DuckDuckGo",
+      "website": "https://duckduckgo.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,16 +37,16 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,9 +65,30 @@
       "httpStatus": 200
     },
     {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +100,9 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,16 +114,9 @@
       "httpStatus": 404
     },
     {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -110,6 +131,13 @@
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
