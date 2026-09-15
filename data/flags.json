@@ -1,6 +1,13 @@
 {
-  "checkedAt": "2026-09-14",
+  "checkedAt": "2026-09-15",
   "flags": [
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "circleci",
       "name": "CircleCI",
@@ -9,23 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "duckduckgo",
-      "name": "DuckDuckGo",
-      "website": "https://duckduckgo.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "ipinfo",
+      "name": "IPInfo",
+      "website": "https://ipinfo.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,9 +30,16 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -51,6 +51,13 @@
       "httpStatus": 200
     },
     {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "homeflic",
       "name": "HomeFlicWeGrow",
       "website": "https://www.homeflicwegrow.com/",
@@ -58,16 +65,23 @@
       "error": "fetch failed"
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,9 +93,9 @@
       "httpStatus": 200
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,6 +107,20 @@
       "httpStatus": 200
     },
     {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "labelbox",
+      "name": "Labelbox",
+      "website": "https://labelbox.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -100,9 +128,16 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,9 +149,9 @@
       "httpStatus": 404
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "crazygames",
+      "name": "CrazyGames",
+      "website": "https://www.crazygames.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,18 +170,18 @@
       "httpStatus": 200
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "healthfinch",
       "name": "Healthfinch",
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
