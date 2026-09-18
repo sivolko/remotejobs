@@ -1,6 +1,27 @@
 {
-  "checkedAt": "2026-09-17",
+  "checkedAt": "2026-09-18",
   "flags": [
+    {
+      "id": "gitlab",
+      "name": "GitLab",
+      "website": "https://about.gitlab.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "circleci",
       "name": "CircleCI",
@@ -16,16 +37,23 @@
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
+      "id": "letsencrypt",
+      "name": "Let's Encrypt",
+      "website": "https://letsencrypt.org",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "ipinfo",
+      "name": "IPInfo",
+      "website": "https://ipinfo.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,13 +72,6 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
@@ -58,9 +79,37 @@
       "httpStatus": 200
     },
     {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intuit",
+      "name": "Intuit Inc.",
+      "website": "https://www.intuit.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,30 +121,16 @@
       "httpStatus": 200
     },
     {
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "intercom",
       "name": "Intercom",
       "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "atlassian",
-      "name": "Atlassian",
-      "website": "https://www.atlassian.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,9 +142,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,23 +156,16 @@
       "httpStatus": 200
     },
     {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
+      "id": "evilmartians",
+      "name": "Evil Martians",
+      "website": "https://evilmartians.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,9 +177,9 @@
       "httpStatus": 404
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,9 +191,9 @@
       "httpStatus": 200
     },
     {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -182,6 +210,13 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
+      "status": "unreachable",
+      "error": "This operation was aborted"
     }
   ]
 }
