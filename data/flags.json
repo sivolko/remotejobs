@@ -1,10 +1,31 @@
 {
-  "checkedAt": "2026-09-22",
+  "checkedAt": "2026-09-23",
   "flags": [
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "circleci",
       "name": "CircleCI",
       "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "jupiterone",
+      "name": "JupiterOne",
+      "website": "https://www.jupiterone.com/careers/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -23,9 +44,9 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,16 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -54,6 +68,34 @@
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intuit",
+      "name": "Intuit Inc.",
+      "website": "https://www.intuit.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "website": "https://www.mailerlite.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,9 +142,9 @@
       "httpStatus": 200
     },
     {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,16 +156,16 @@
       "httpStatus": 404
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
+      "id": "bandcamp",
+      "name": "Bandcamp",
+      "website": "https://bandcamp.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "bandcamp",
-      "name": "Bandcamp",
-      "website": "https://bandcamp.com/",
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
