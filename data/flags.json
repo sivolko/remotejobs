@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-09-24",
+  "checkedAt": "2026-09-25",
   "flags": [
-    {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
@@ -16,16 +9,23 @@
       "httpStatus": 200
     },
     {
-      "id": "datadog",
-      "name": "Datadog",
-      "website": "https://www.datadoghq.com/",
+      "id": "fastly",
+      "name": "Fastly",
+      "website": "https://www.fastly.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cofense",
-      "name": "Cofense",
-      "website": "https://cofense.com",
+      "id": "docker",
+      "name": "Docker",
+      "website": "https://www.docker.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -33,13 +33,6 @@
       "id": "cloudlinux",
       "name": "CloudLinux",
       "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,13 +51,6 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
@@ -72,9 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +79,9 @@
       "httpStatus": 200
     },
     {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,9 +93,9 @@
       "httpStatus": 200
     },
     {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,13 +128,6 @@
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "doist",
       "name": "Doist",
       "website": "https://doist.com",
@@ -156,9 +135,16 @@
       "httpStatus": 200
     },
     {
-      "id": "bigcartel",
-      "name": "Big Cartel",
-      "website": "https://www.bigcartel.com",
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "labelbox",
+      "name": "Labelbox",
+      "website": "https://labelbox.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -166,6 +152,20 @@
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -191,20 +191,6 @@
       "httpStatus": 200
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "komoot",
       "name": "Komoot",
       "website": "https://www.komoot.com",
@@ -217,6 +203,20 @@
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }

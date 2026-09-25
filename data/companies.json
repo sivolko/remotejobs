@@ -8,9 +8,9 @@
     "companyType": "Enterprise",
     "region": "United States only",
     "blurb": "Builds the container platform most dev teams use to ship software.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "f90b4baf39095e97"
+    "contentHash": "93ebf0be19133a72"
   },
   {
     "id": "github",
@@ -21,7 +21,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Hosts the code and workflows of most of the world's software teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "25bb46974bf2bfbd"
   },
@@ -34,7 +34,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Runs an all-remote DevOps platform covering the full software lifecycle.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "4fa243c03440d712"
   },
@@ -47,7 +47,7 @@
     "companyType": "Enterprise",
     "region": "USA, Canada, UK, Germany, France, Netherlands, Australia, Japan",
     "blurb": "Makes Terraform, Vault and the infrastructure tooling cloud teams standardize on.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked"
   },
   {
@@ -59,7 +59,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Runs one of the most widely used CI/CD pipelines for dev teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "6cb97ab67bec6d1d"
   },
@@ -72,9 +72,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Cloud hosting built for developers and small infrastructure teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "b63f44025c031bcb"
+    "contentHash": "8c31ba06383e7414"
   },
   {
     "id": "fastly",
@@ -85,9 +85,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Edge cloud platform powering CDN and security for large-scale sites.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "fb3b24e263dab544"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "0e554f332d624c05"
   },
   {
     "id": "grafana",
@@ -98,7 +98,7 @@
     "companyType": "Scale-up",
     "region": "USA and EMEA/EST timezones",
     "blurb": "Builds the observability stack behind Grafana, Loki and Mimir.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "9350876747a014e5"
   },
@@ -111,8 +111,8 @@
     "companyType": "Enterprise",
     "region": "Worldwide (restricted locations)",
     "blurb": "Monitoring and security platform for cloud-scale infrastructure.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "d97d1b9d27d64fae"
   },
   {
@@ -124,7 +124,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Distributed search and analytics engine behind the Elastic Stack.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "3334a24f0f7f2515"
   },
@@ -137,7 +137,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Publishes Ubuntu and open infrastructure software for the cloud.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "42dc61766ec3a95f"
   },
@@ -150,9 +150,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Cloud-native endpoint and threat detection platform for enterprises.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "d2698ab154474c48"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "1bd1cb4df825a586"
   },
   {
     "id": "cofense",
@@ -163,8 +163,8 @@
     "companyType": "Scale-up",
     "region": "USA",
     "blurb": "Phishing detection and response built from real employee-reported email.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "7158d48a300620bc"
   },
   {
@@ -176,7 +176,7 @@
     "companyType": "Scale-up",
     "region": "USA, UK, Singapore",
     "blurb": "Threat intelligence platform that correlates feeds against an org's own telemetry.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "366b27ec9d357eaa"
   },
@@ -189,9 +189,9 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Independent anti-malware vendor known for ransomware decryption tools.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "1b47687deb524f96"
+    "contentHash": "bb33a49da098e1d8"
   },
   {
     "id": "cloudlinux",
@@ -202,9 +202,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Hardened Linux distribution built for shared hosting security.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "3256a59a64958559"
+    "contentHash": "46f7771866541004"
   },
   {
     "id": "jupiterone",
@@ -215,7 +215,7 @@
     "companyType": "Startup",
     "region": "USA",
     "blurb": "Cyber asset attack surface management graph for security teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "8840012881de5169"
   },
@@ -228,7 +228,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Makes Adblock Plus and ad-filtering technology used across browsers.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "92c8b0b19bdbf24e"
   },
@@ -241,7 +241,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Privacy-first search engine and browser that doesn't track users.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "908307b98b9b8591"
   },
@@ -254,7 +254,7 @@
     "companyType": "Scale-up",
     "region": "North America, UK",
     "blurb": "Password manager and secrets vault used by individuals and enterprises.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "98ea23cda286b4af"
   },
@@ -267,8 +267,8 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Identity and access management platform now part of Okta.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "07ae649eef2c1f37"
   },
   {
@@ -280,9 +280,9 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Device fingerprinting API for fraud detection and bot prevention.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "2facf35f9b82c33e"
+    "contentHash": "fa85668007ff4da6"
   },
   {
     "id": "ipinfo",
@@ -293,7 +293,7 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "IP geolocation and data API used widely in security tooling.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "e56b22f7a4e68d51"
   },
@@ -306,9 +306,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Password manager and identity protection suite for teams and individuals.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "05fea725da1d11fc"
+    "contentHash": "43ef7076d69871b9"
   },
   {
     "id": "letsencrypt",
@@ -319,7 +319,7 @@
     "companyType": "Nonprofit / Government",
     "region": "USA, Canada",
     "blurb": "Free automated certificate authority that helped encrypt most of the web.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "0602cf67b1ff122f"
   },
@@ -332,9 +332,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "One of the largest regulated cryptocurrency exchanges.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "1cfc6dcc05e9d7c6"
+    "contentHash": "81ab221c9ee85df4"
   },
   {
     "id": "kraken",
@@ -345,9 +345,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Long-running crypto exchange operating as an all-remote company.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "3161f6c50c48dcae"
+    "contentHash": "aa5f734fa4428ebd"
   },
   {
     "id": "consensys",
@@ -358,7 +358,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Ethereum software studio behind MetaMask and Infura.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "41d36ec60b36fd9a"
   },
@@ -371,7 +371,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Self-custody crypto wallet and browser extension for Web3.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "b619cab0b64b13a3"
   },
@@ -384,7 +384,7 @@
     "companyType": "Scale-up",
     "region": "USA",
     "blurb": "Builds the oracle network connecting smart contracts to real-world data.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "7122b232e71d9540"
   },
@@ -397,9 +397,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Engineering company behind the Cardano blockchain.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "01df833f7e299a2f"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "5912b2c7ade0f420"
   },
   {
     "id": "dappradar",
@@ -410,9 +410,9 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Discovery and analytics platform for decentralized apps and NFTs.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "2ebd323134a9f27f"
+    "contentHash": "bc8b05ea7a84611b"
   },
   {
     "id": "deel",
@@ -423,9 +423,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Global payroll and compliance platform for hiring across borders.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "3b5fdc728d1a33dc"
+    "contentHash": "cdaf1f0beab129d0"
   },
   {
     "id": "bill",
@@ -436,7 +436,7 @@
     "companyType": "Enterprise",
     "region": "USA",
     "blurb": "Automates accounts payable and receivable for small businesses.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "66635793723a0b5d"
   },
@@ -449,7 +449,7 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Revenue-based financing for SaaS companies.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "2b97f582cea55224"
   },
@@ -462,7 +462,7 @@
     "companyType": "Scale-up",
     "region": "India",
     "blurb": "UPI and lending platform for Indian merchants.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "c454952298929c15"
   },
@@ -475,8 +475,8 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Maker of QuickBooks, TurboTax and Mailchimp.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "6ba18b718269babb"
   },
   {
@@ -488,7 +488,7 @@
     "companyType": "Startup",
     "region": "India",
     "blurb": "Real-time expense management software for finance teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "9c978c7b0d4c739a"
   },
@@ -501,8 +501,8 @@
     "companyType": "Enterprise",
     "region": "USA, UK",
     "blurb": "Email and SMS marketing platform built for e-commerce brands.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "767778275244ef87"
   },
   {
@@ -514,7 +514,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "CRM and marketing platform used by small and mid-size businesses.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "e7f2fa9acfffe649"
   },
@@ -527,9 +527,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Customer messaging and support platform with an AI-first inbox.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "6920c1bb3f1c90ea"
+    "contentHash": "dfdc5ba06e95fbd7"
   },
   {
     "id": "buffer",
@@ -540,9 +540,9 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Social media scheduling tool run as a fully distributed team.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "8ff3c07ac2b8792a"
+    "contentHash": "f9f5b1575ed99864"
   },
   {
     "id": "mailerlite",
@@ -553,9 +553,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Email marketing tool focused on simplicity for small businesses.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "33706dcaa64dd33b"
+    "contentHash": "85c9de0666058eee"
   },
   {
     "id": "customerio",
@@ -566,9 +566,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Behavioral messaging platform for triggered customer campaigns.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "fcbc3224a6ded3dc"
+    "contentHash": "6553e4cc6c4460aa"
   },
   {
     "id": "homeflic",
@@ -579,7 +579,7 @@
     "companyType": "Startup",
     "region": "India",
     "blurb": "Real estate marketing and growth services for Indian developers.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "ecf3f2ae2c44c0fe"
   },
@@ -592,7 +592,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "All-in-one project management and productivity workspace.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "57460b68cda327e1"
   },
@@ -605,7 +605,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Work management platform for tracking team projects and goals.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "d0e006da8c9dafbd"
   },
@@ -618,7 +618,7 @@
     "companyType": "Enterprise",
     "region": "USA, Europe, Asia, Australia",
     "blurb": "Makes Jira, Confluence and Trello for software and ops teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "bea96e12727d0a1a"
   },
@@ -631,7 +631,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Simple project management tool from the team behind 37signals.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "0cf2e24e3080230d"
   },
@@ -644,9 +644,9 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Builds Todoist and Twist as a long-time fully remote company.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "2deba9f05d5cd35d"
+    "contentHash": "f4d425d1a1e5433b"
   },
   {
     "id": "helpscout",
@@ -657,7 +657,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Help desk software for small support teams.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "f56e3f8482a40b83"
   },
@@ -670,9 +670,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Company behind WordPress.com, Tumblr and WooCommerce, fully distributed.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "a843b6b891d327f5"
+    "contentHash": "4e88fea18b116edc"
   },
   {
     "id": "37signals",
@@ -683,7 +683,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Makers of Basecamp and HEY, known for opinionated remote-work writing.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "b403cfe11205da7f"
   },
@@ -696,9 +696,9 @@
     "companyType": "Enterprise",
     "region": "USA, Canada",
     "blurb": "Online course platform partnering with universities and companies.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "76ff2526f3a19cc3"
+    "contentHash": "dd1c11bcf9866570"
   },
   {
     "id": "khanacademy",
@@ -709,7 +709,7 @@
     "companyType": "Nonprofit / Government",
     "region": "USA",
     "blurb": "Nonprofit providing free courses and practice for any learner.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "76b4c53d7f76b82a"
   },
@@ -722,7 +722,7 @@
     "companyType": "Scale-up",
     "region": "Europe or comparable timezone",
     "blurb": "Interactive courses for learning data science and analytics.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked",
     "contentHash": "0b3e42def2001720"
   },
@@ -735,7 +735,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Bootcamp-style training in tech, data and design skills.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "8822fe4c46f2c4ec"
   },
@@ -748,7 +748,7 @@
     "companyType": "Startup",
     "region": "Pacific Time Zone (PT)",
     "blurb": "Software engineering bootcamp delivered remotely.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "bfd43a4842091c8b"
   },
@@ -761,7 +761,7 @@
     "companyType": "Scale-up",
     "region": "USA",
     "blurb": "Digital curriculum and learning tools for K-12 schools.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "ce9a2ba905ee2707"
   },
@@ -774,7 +774,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Community and competition platform for data scientists, owned by Google.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "0b6e7b8048b5b118"
   },
@@ -787,7 +787,7 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Builds open-source MLOps tooling including DVC.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "8f41410b18168e74"
   },
@@ -800,9 +800,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Data labeling and training-data platform for machine learning teams.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "daed6418e1a9a124"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "d825753c71308f32"
   },
   {
     "id": "datastax",
@@ -813,7 +813,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Commercial company built around the Apache Cassandra database.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "74e13572823da711"
   },
@@ -826,7 +826,7 @@
     "companyType": "Startup",
     "region": "Europe",
     "blurb": "Distributed SQL database built for time-series and IoT data.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "3f05962222cd16f0"
   },
@@ -839,7 +839,7 @@
     "companyType": "Startup",
     "region": "India",
     "blurb": "Carbon accounting and sustainability analytics for enterprises.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "7c0a01578ac5fa64"
   },
@@ -852,7 +852,7 @@
     "companyType": "Startup",
     "region": "India",
     "blurb": "Customer experience analytics platform using NLP on review data.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "70576db64809bb0d"
   },
@@ -865,7 +865,7 @@
     "companyType": "Startup",
     "region": "India",
     "blurb": "AI-driven accessibility tools for people with disabilities.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "534cdc695c50ca9b"
   },
@@ -878,7 +878,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Global marketplace for handmade and vintage goods.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked",
     "contentHash": "31bbed555b715ae1"
   },
@@ -891,7 +891,7 @@
     "companyType": "Enterprise",
     "region": "North America, Asia",
     "blurb": "Freelance services marketplace connecting buyers and sellers.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked"
   },
   {
@@ -903,8 +903,8 @@
     "companyType": "Startup",
     "region": "USA",
     "blurb": "Simple online store builder for independent artists and makers.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "428e467a83d24d3d"
   },
   {
@@ -916,9 +916,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Domain registration and website hosting for small businesses.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "a6680cbf8d08dc07"
+    "contentHash": "e8b4da225fb64632"
   },
   {
     "id": "cfpb",
@@ -929,7 +929,7 @@
     "companyType": "Nonprofit / Government",
     "region": "USA",
     "blurb": "US federal agency protecting consumers in financial markets.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "8d7edb0b719cd1c0"
   },
@@ -942,7 +942,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Global IT consulting and systems integration firm.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "e4318c2f8f1cbe5b"
   },
@@ -955,7 +955,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "IT services and consulting firm with major delivery centers in India.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "0660cce54cc0ee44"
   },
@@ -968,7 +968,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Software engineering and digital consulting company.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked"
   },
   {
@@ -980,7 +980,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Engineering services firm, part of DXC Technology.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "41321fe882078f87"
   },
@@ -993,7 +993,7 @@
     "companyType": "Agency",
     "region": "Worldwide",
     "blurb": "Ruby and product engineering studio known for open-source work.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "469cc69bd994b3cf"
   },
@@ -1006,7 +1006,7 @@
     "companyType": "Agency",
     "region": "Worldwide",
     "blurb": "Product design and development agency operating fully remote.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "6123ed0d6404c477"
   },
@@ -1019,9 +1019,9 @@
     "companyType": "Agency",
     "region": "Worldwide",
     "blurb": "Staffing and software outsourcing firm based in Latin America.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "d94c93c1c2e060f7"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "cf829466442c2fff"
   },
   {
     "id": "andela",
@@ -1032,9 +1032,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Marketplace connecting vetted global engineers with companies.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "b92f9b227aa6fb0d"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "265a94c0242098b9"
   },
   {
     "id": "crossover",
@@ -1045,7 +1045,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Remote staffing platform matching engineers to long-term roles.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "e57cf14fb2bcaef4"
   },
@@ -1058,7 +1058,7 @@
     "companyType": "Agency",
     "region": "Worldwide",
     "blurb": "Product engineering agency for venture-backed startups.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "cfc59c36344cffe6"
   },
@@ -1071,7 +1071,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Digital engineering services company across multiple industries.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "8cff553dcde84cf7"
   },
@@ -1084,7 +1084,7 @@
     "companyType": "Enterprise",
     "region": "Asia, Europe, Latin America, North America",
     "blurb": "IT consultancy focused on banking and financial services.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "2b480d2865490b58"
   },
@@ -1097,7 +1097,7 @@
     "companyType": "Agency",
     "region": "Worldwide",
     "blurb": "Drupal-focused web development consultancy, remote since 2006.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked"
   },
   {
@@ -1109,7 +1109,7 @@
     "companyType": "Agency",
     "region": "USA",
     "blurb": "Drupal and web platform agency for enterprise clients.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "1d04b8286f88bd78"
   },
@@ -1122,8 +1122,8 @@
     "companyType": "Scale-up",
     "region": "India",
     "blurb": "Business process and customer experience outsourcing firm.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "41705b05a4ae6bda"
   },
   {
@@ -1135,9 +1135,9 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Builds Azure, Windows, GitHub and the Microsoft 365 platform.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "568e475cc8549e04"
+    "contentHash": "077ba02a8905663c"
   },
   {
     "id": "ibm",
@@ -1148,7 +1148,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Enterprise hardware, cloud and consulting company.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "broken"
   },
   {
@@ -1160,7 +1160,7 @@
     "companyType": "Enterprise",
     "region": "USA, India",
     "blurb": "CDN and edge security provider protecting large-scale web traffic.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "bc5214ad2e4f0667"
   },
@@ -1173,8 +1173,8 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Enterprise networking hardware and cloud management software.",
-    "lastChecked": "2026-09-24",
-    "status": "changed",
+    "lastChecked": "2026-09-25",
+    "status": "ok",
     "contentHash": "78bad280fc36facd"
   },
   {
@@ -1186,7 +1186,7 @@
     "companyType": "Scale-up",
     "region": "USA",
     "blurb": "Chat and voice platform that grew out of gaming communities.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "5dab94dbf529e209"
   },
@@ -1199,7 +1199,7 @@
     "companyType": "Enterprise",
     "region": "Worldwide",
     "blurb": "Maker of Fortnite and the Unreal Engine.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "blocked"
   },
   {
@@ -1211,7 +1211,7 @@
     "companyType": "Startup",
     "region": "Worldwide",
     "blurb": "Browser gaming platform hosting thousands of free-to-play titles.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "af71154458a00835"
   },
@@ -1224,9 +1224,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Artist-first platform for selling and streaming independent music.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "4b2b7575a02f329f"
+    "contentHash": "a60c6a0ecdc9bc36"
   },
   {
     "id": "bandlab",
@@ -1237,7 +1237,7 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Social music creation app and recording studio in the browser.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "f6bcbc9dcafcd28b"
   },
@@ -1250,7 +1250,7 @@
     "companyType": "Scale-up",
     "region": "India",
     "blurb": "Short-form news app summarizing stories for quick reading.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "aed61471114623a4"
   },
@@ -1263,7 +1263,7 @@
     "companyType": "Scale-up",
     "region": "USA, Canada, UK, Bulgaria, Philippines, Colombia",
     "blurb": "Travel booking app known for fare prediction technology.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "0323c503f0165787"
   },
@@ -1276,9 +1276,9 @@
     "companyType": "Startup",
     "region": "USA",
     "blurb": "Specializes in booking complex multi-stop round-the-world flights.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "67fd114e0038649e"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "e3f482f4299bea14"
   },
   {
     "id": "komoot",
@@ -1289,9 +1289,9 @@
     "companyType": "Scale-up",
     "region": "Worldwide",
     "blurb": "Route planning app for hikers and cyclists.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "changed",
-    "contentHash": "213a1ce155dd82dd"
+    "contentHash": "1f5050ef22475431"
   },
   {
     "id": "caremessage",
@@ -1302,7 +1302,7 @@
     "companyType": "Nonprofit / Government",
     "region": "Worldwide",
     "blurb": "Nonprofit sending patient engagement texts for safety-net clinics.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "ok",
     "contentHash": "686af31243e02986"
   },
@@ -1315,7 +1315,7 @@
     "companyType": "Startup",
     "region": "USA",
     "blurb": "Automates routine clinical workflows like prescription renewals.",
-    "lastChecked": "2026-09-24",
+    "lastChecked": "2026-09-25",
     "status": "unreachable",
     "contentHash": "20aea223ad178a1d"
   },
@@ -1328,8 +1328,8 @@
     "companyType": "Scale-up",
     "region": "USA",
     "blurb": "Risk adjustment and medical coding services for health plans.",
-    "lastChecked": "2026-09-24",
-    "status": "ok",
-    "contentHash": "27384b75848d3967"
+    "lastChecked": "2026-09-25",
+    "status": "changed",
+    "contentHash": "17beb8a995bd9eca"
   }
 ]
