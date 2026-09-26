@@ -1,38 +1,10 @@
 {
-  "checkedAt": "2026-09-25",
+  "checkedAt": "2026-09-26",
   "flags": [
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
       "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fastly",
-      "name": "Fastly",
-      "website": "https://www.fastly.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "letsencrypt",
+      "name": "Let's Encrypt",
+      "website": "https://letsencrypt.org",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,9 +30,16 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "dashlane",
+      "name": "Dashlane",
+      "website": "https://dashlane.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,30 +51,9 @@
       "httpStatus": 200
     },
     {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,13 +72,6 @@
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "doist",
       "name": "Doist",
       "website": "https://doist.com",
@@ -135,16 +79,30 @@
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "labelbox",
-      "name": "Labelbox",
-      "website": "https://labelbox.com/",
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "datastax",
+      "name": "DataStax",
+      "website": "https://www.datastax.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cfpb",
+      "name": "Consumer Financial Protection Bureau",
+      "website": "https://www.consumerfinance.gov",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,9 +114,9 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -173,6 +131,13 @@
       "id": "microsoft",
       "name": "Microsoft",
       "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -205,18 +170,18 @@
       "error": "fetch failed"
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "episource",
       "name": "Episource",
       "website": "https://episource.com",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "unreachable",
+      "error": "This operation was aborted"
     }
   ]
 }
