@@ -1,10 +1,24 @@
 {
-  "checkedAt": "2026-09-30",
+  "checkedAt": "2026-10-01",
   "flags": [
     {
       "id": "gitlab",
       "name": "GitLab",
       "website": "https://about.gitlab.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "website": "https://www.docker.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,9 +30,30 @@
       "httpStatus": 200
     },
     {
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "fingerprint",
       "name": "Fingerprint",
       "website": "https://fingerprint.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,9 +65,9 @@
       "httpStatus": 200
     },
     {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -51,23 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "hubspot",
+      "name": "HubSpot",
+      "website": "https://www.hubspot.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,13 +100,6 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "intercom",
       "name": "Intercom",
       "website": "https://www.intercom.io/",
@@ -93,9 +107,9 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,13 +121,6 @@
       "httpStatus": 200
     },
     {
-      "id": "iterative",
-      "name": "Iterative",
-      "website": "https://www.iterative.ai/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -121,16 +128,9 @@
       "httpStatus": 200
     },
     {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bigcartel",
-      "name": "Big Cartel",
-      "website": "https://www.bigcartel.com",
+      "id": "clootrack",
+      "name": "Clootrack",
+      "website": "https://www.clootrack.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,13 +142,6 @@
       "httpStatus": 200
     },
     {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "boldare",
       "name": "Boldare",
       "website": "https://boldare.com",
@@ -156,9 +149,16 @@
       "httpStatus": 200
     },
     {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -180,6 +180,13 @@
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
       "status": "changed",
       "httpStatus": 200
     },
