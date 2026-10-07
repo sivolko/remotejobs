@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-06",
+  "checkedAt": "2026-10-07",
   "flags": [
     {
       "id": "gitlab",
@@ -9,23 +9,16 @@
       "httpStatus": 200
     },
     {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
+      "id": "cofense",
+      "name": "Cofense",
+      "website": "https://cofense.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,9 +30,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "jupiterone",
+      "name": "JupiterOne",
+      "website": "https://www.jupiterone.com/careers/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -51,16 +44,16 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,6 +72,20 @@
       "httpStatus": 200
     },
     {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "buffer",
       "name": "Buffer",
       "website": "https://buffer.com/",
@@ -86,9 +93,9 @@
       "httpStatus": 200
     },
     {
-      "id": "clickup",
-      "name": "ClickUp",
-      "website": "https://clickup.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,16 +107,16 @@
       "httpStatus": 200
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
+      "id": "basecamp",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,9 +135,30 @@
       "httpStatus": 200
     },
     {
-      "id": "labelbox",
-      "name": "Labelbox",
-      "website": "https://labelbox.com/",
+      "id": "cratedb",
+      "name": "CrateDB",
+      "website": "https://cratedb.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "datastax",
+      "name": "DataStax",
+      "website": "https://www.datastax.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bigcartel",
+      "name": "Big Cartel",
+      "website": "https://www.bigcartel.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cfpb",
+      "name": "Consumer Financial Protection Bureau",
+      "website": "https://www.consumerfinance.gov",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,9 +170,9 @@
       "httpStatus": 200
     },
     {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -152,6 +180,20 @@
       "id": "boldare",
       "name": "Boldare",
       "website": "https://boldare.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -170,6 +212,20 @@
       "httpStatus": 200
     },
     {
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "healthfinch",
       "name": "Healthfinch",
       "website": "https://www.healthfinch.com/",
@@ -182,13 +238,6 @@
       "website": "https://episource.com",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
