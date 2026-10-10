@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-10-09",
+  "checkedAt": "2026-10-10",
   "flags": [
     {
-      "id": "datadog",
-      "name": "Datadog",
-      "website": "https://www.datadoghq.com/",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,23 +16,16 @@
       "httpStatus": 200
     },
     {
+      "id": "grafana",
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "elastic",
       "name": "Elastic",
       "website": "https://www.elastic.co/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,6 +51,20 @@
       "httpStatus": 200
     },
     {
+      "id": "chainlink",
+      "name": "ChainLink Labs",
+      "website": "https://chainlinklabs.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "deel",
       "name": "Deel",
       "website": "http://www.deel.com/",
@@ -72,9 +79,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "hubspot",
+      "name": "HubSpot",
+      "website": "https://www.hubspot.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,13 +100,6 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "doist",
       "name": "Doist",
       "website": "https://doist.com",
@@ -107,16 +107,16 @@
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "iterative",
-      "name": "Iterative",
-      "website": "https://www.iterative.ai/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,9 +128,23 @@
       "httpStatus": 200
     },
     {
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "andela",
       "name": "Andela",
       "website": "https://andela.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,16 +156,23 @@
       "httpStatus": 404
     },
     {
-      "id": "bandcamp",
-      "name": "Bandcamp",
-      "website": "https://bandcamp.com/",
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bandcamp",
+      "name": "Bandcamp",
+      "website": "https://bandcamp.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,13 +184,6 @@
       "httpStatus": 200
     },
     {
-      "id": "episource",
-      "name": "Episource",
-      "website": "https://episource.com",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
       "id": "healthfinch",
       "name": "Healthfinch",
       "website": "https://www.healthfinch.com/",
@@ -177,11 +191,18 @@
       "error": "fetch failed"
     },
     {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
+      "status": "unreachable",
+      "error": "fetch failed"
     }
   ]
 }
