@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-10-16",
+  "checkedAt": "2026-10-17",
   "flags": [
-    {
-      "id": "gitlab",
-      "name": "GitLab",
-      "website": "https://about.gitlab.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
@@ -23,23 +16,23 @@
       "httpStatus": 200
     },
     {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cofense",
-      "name": "Cofense",
-      "website": "https://cofense.com",
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "ipinfo",
-      "name": "IPInfo",
-      "website": "https://ipinfo.io/",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -51,13 +44,6 @@
       "httpStatus": 200
     },
     {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "dashlane",
       "name": "Dashlane",
       "website": "https://dashlane.com",
@@ -65,23 +51,16 @@
       "httpStatus": 200
     },
     {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
+      "id": "canonical",
+      "name": "Canonical",
+      "website": "https://www.canonical.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +72,23 @@
       "httpStatus": 200
     },
     {
-      "id": "bharatpe",
-      "name": "BharatPe",
-      "website": "https://www.bharatpe.com",
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,16 +100,9 @@
       "httpStatus": 200
     },
     {
-      "id": "basecamp",
-      "name": "Basecamp",
-      "website": "https://basecamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,23 +114,9 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "atlassian",
-      "name": "Atlassian",
-      "website": "https://www.atlassian.com/",
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,20 +128,6 @@
       "httpStatus": 200
     },
     {
-      "id": "cratedb",
-      "name": "CrateDB",
-      "website": "https://cratedb.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -177,9 +135,23 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -194,13 +166,6 @@
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
