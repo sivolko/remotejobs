@@ -1,20 +1,6 @@
 {
-  "checkedAt": "2026-10-17",
+  "checkedAt": "2026-10-18",
   "flags": [
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "crowdstrike",
       "name": "CrowdStrike",
@@ -30,9 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -40,27 +26,6 @@
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "canonical",
-      "name": "Canonical",
-      "website": "https://www.canonical.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,20 +51,6 @@
       "httpStatus": 200
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "intercom",
       "name": "Intercom",
       "website": "https://www.intercom.io/",
@@ -110,13 +61,6 @@
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,16 +79,9 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,11 +93,25 @@
       "httpStatus": 200
     },
     {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "bandcamp",
@@ -189,6 +140,13 @@
       "website": "https://episource.com",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
     }
   ]
 }
