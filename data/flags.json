@@ -1,20 +1,6 @@
 {
-  "checkedAt": "2026-10-18",
+  "checkedAt": "2026-10-19",
   "flags": [
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "kraken",
       "name": "Kraken",
@@ -26,6 +12,13 @@
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +37,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,9 +51,9 @@
       "httpStatus": 200
     },
     {
-      "id": "coursera",
-      "name": "Coursera",
-      "website": "https://www.coursera.org/",
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -110,6 +96,13 @@
       "id": "akamai",
       "name": "Akamai",
       "website": "https://www.akamai.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crazygames",
+      "name": "CrazyGames",
+      "website": "https://www.crazygames.com",
       "status": "changed",
       "httpStatus": 200
     },
