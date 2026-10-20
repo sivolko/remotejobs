@@ -1,10 +1,17 @@
 {
-  "checkedAt": "2026-10-19",
+  "checkedAt": "2026-10-20",
   "flags": [
     {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,9 +23,16 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -33,6 +47,34 @@
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intuit",
+      "name": "Intuit Inc.",
+      "website": "https://www.intuit.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "website": "https://www.mailerlite.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,6 +100,20 @@
       "httpStatus": 200
     },
     {
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
@@ -65,9 +121,16 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -128,18 +191,18 @@
       "error": "fetch failed"
     },
     {
-      "id": "episource",
-      "name": "Episource",
-      "website": "https://episource.com",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
       "id": "airtreks",
       "name": "AirTreks",
       "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
+      "status": "unreachable",
+      "error": "fetch failed"
     }
   ]
 }
