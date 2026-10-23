@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-10-22",
+  "checkedAt": "2026-10-23",
   "flags": [
-    {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "gitlab",
       "name": "GitLab",
@@ -16,23 +9,9 @@
       "httpStatus": 200
     },
     {
-      "id": "fastly",
-      "name": "Fastly",
-      "website": "https://www.fastly.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +23,23 @@
       "httpStatus": 200
     },
     {
-      "id": "anomali",
-      "name": "Anomali",
-      "website": "https://www.anomali.com/company/careers",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "1password",
+      "name": "1Password",
+      "website": "https://www.1password.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,16 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -93,9 +72,30 @@
       "httpStatus": 200
     },
     {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "customerio",
+      "name": "Customer.io",
+      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,13 +107,6 @@
       "httpStatus": 200
     },
     {
-      "id": "clickup",
-      "name": "ClickUp",
-      "website": "https://clickup.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "intercom",
       "name": "Intercom",
       "website": "https://www.intercom.io/",
@@ -121,16 +114,9 @@
       "httpStatus": 200
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,6 +135,13 @@
       "httpStatus": 200
     },
     {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -156,23 +149,9 @@
       "httpStatus": 200
     },
     {
-      "id": "imaginelearning",
-      "name": "Imagine Learning",
-      "website": "https://www.imaginelearning.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cfpb",
-      "name": "Consumer Financial Protection Bureau",
-      "website": "https://www.consumerfinance.gov",
+      "id": "greenstitch",
+      "name": "GreenStitch.io",
+      "website": "https://greenstitch.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -184,9 +163,16 @@
       "httpStatus": 200
     },
     {
-      "id": "boldare",
-      "name": "Boldare",
-      "website": "https://boldare.com",
+      "id": "evilmartians",
+      "name": "Evil Martians",
+      "website": "https://evilmartians.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cognizant",
+      "name": "Cognizant",
+      "website": "https://www.cognizant.com/in/en",
       "status": "changed",
       "httpStatus": 200
     },
@@ -198,9 +184,23 @@
       "httpStatus": 200
     },
     {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -212,37 +212,9 @@
       "httpStatus": 404
     },
     {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -266,13 +238,6 @@
       "website": "https://episource.com",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
