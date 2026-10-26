@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-25",
+  "checkedAt": "2026-10-26",
   "flags": [
     {
       "id": "coinbase",
@@ -16,6 +16,13 @@
       "httpStatus": 200
     },
     {
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "deel",
       "name": "Deel",
       "website": "http://www.deel.com/",
@@ -23,16 +30,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "asana",
-      "name": "Asana",
-      "website": "https://asana.com/",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,9 +44,16 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,9 +72,23 @@
       "httpStatus": 404
     },
     {
+      "id": "crazygames",
+      "name": "CrazyGames",
+      "website": "https://www.crazygames.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -77,13 +98,6 @@
       "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
-    },
-    {
-      "id": "episource",
-      "name": "Episource",
-      "website": "https://episource.com",
-      "status": "unreachable",
-      "error": "fetch failed"
     },
     {
       "id": "healthfinch",
@@ -96,6 +110,20 @@
       "id": "airtreks",
       "name": "AirTreks",
       "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
+      "status": "unreachable",
+      "error": "fetch failed"
+    },
+    {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
       "status": "changed",
       "httpStatus": 200
     }
