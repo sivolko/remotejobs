@@ -1,6 +1,41 @@
 {
-  "checkedAt": "2026-10-26",
+  "checkedAt": "2026-10-27",
   "flags": [
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "grafana",
+      "name": "Grafana Labs",
+      "website": "https://grafana.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "coinbase",
       "name": "Coinbase",
@@ -23,6 +58,13 @@
       "httpStatus": 200
     },
     {
+      "id": "dappradar",
+      "name": "DappRadar",
+      "website": "https://dappradar.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "deel",
       "name": "Deel",
       "website": "http://www.deel.com/",
@@ -30,9 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "bill",
+      "name": "Bill",
+      "website": "https://www.bill.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,9 +86,30 @@
       "httpStatus": 200
     },
     {
-      "id": "asana",
-      "name": "Asana",
-      "website": "https://asana.com/",
+      "id": "hubspot",
+      "name": "HubSpot",
+      "website": "https://www.hubspot.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "website": "https://www.klaviyo.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -54,6 +117,27 @@
       "id": "doist",
       "name": "Doist",
       "website": "https://doist.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "greenstitch",
+      "name": "GreenStitch.io",
+      "website": "https://greenstitch.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,9 +156,9 @@
       "httpStatus": 404
     },
     {
-      "id": "crazygames",
-      "name": "CrazyGames",
-      "website": "https://www.crazygames.com",
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,13 +191,6 @@
       "error": "fetch failed"
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "episource",
       "name": "Episource",
       "website": "https://episource.com",
@@ -121,9 +198,16 @@
       "error": "fetch failed"
     },
     {
-      "id": "dappradar",
-      "name": "DappRadar",
-      "website": "https://dappradar.com/",
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "caremessage",
+      "name": "CareMessage",
+      "website": "https://caremessage.org/careers/",
       "status": "changed",
       "httpStatus": 200
     }
