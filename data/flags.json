@@ -1,6 +1,13 @@
 {
-  "checkedAt": "2026-10-27",
+  "checkedAt": "2026-10-28",
   "flags": [
+    {
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
@@ -9,23 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "grafana",
-      "name": "Grafana Labs",
-      "website": "https://grafana.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "cloudlinux",
       "name": "CloudLinux",
       "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -51,13 +44,6 @@
       "httpStatus": 200
     },
     {
-      "id": "metamask",
-      "name": "MetaMask",
-      "website": "https://metamask.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
@@ -65,16 +51,9 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bill",
-      "name": "Bill",
-      "website": "https://www.bill.com/",
+      "id": "iohk",
+      "name": "IOHK",
+      "website": "https://iohk.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -86,9 +65,9 @@
       "httpStatus": 200
     },
     {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,9 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,9 +100,9 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "automattic",
+      "name": "Automattic",
+      "website": "https://automattic.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,9 +114,16 @@
       "httpStatus": 200
     },
     {
-      "id": "greenstitch",
-      "name": "GreenStitch.io",
-      "website": "https://greenstitch.io",
+      "id": "clootrack",
+      "name": "Clootrack",
+      "website": "https://www.clootrack.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cfpb",
+      "name": "Consumer Financial Protection Bureau",
+      "website": "https://www.consumerfinance.gov",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,6 +135,13 @@
       "httpStatus": 200
     },
     {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "website": "https://www.microsoft.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
@@ -156,9 +149,9 @@
       "httpStatus": 404
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
+      "id": "extremenetworks",
+      "name": "Extreme Networks",
+      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -170,16 +163,16 @@
       "httpStatus": 200
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -196,20 +189,6 @@
       "website": "https://episource.com",
       "status": "unreachable",
       "error": "fetch failed"
-    },
-    {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "caremessage",
-      "name": "CareMessage",
-      "website": "https://caremessage.org/careers/",
-      "status": "changed",
-      "httpStatus": 200
     }
   ]
 }
