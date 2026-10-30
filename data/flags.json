@@ -1,20 +1,6 @@
 {
-  "checkedAt": "2026-10-29",
+  "checkedAt": "2026-10-30",
   "flags": [
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "github",
       "name": "GitHub",
@@ -23,9 +9,30 @@
       "httpStatus": 200
     },
     {
-      "id": "fastly",
-      "name": "Fastly",
-      "website": "https://www.fastly.com/",
+      "id": "gitlab",
+      "name": "GitLab",
+      "website": "https://about.gitlab.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "1password",
+      "name": "1Password",
+      "website": "https://www.1password.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,23 +44,16 @@
       "httpStatus": 200
     },
     {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
+      "id": "crowdstrike",
+      "name": "CrowdStrike",
+      "website": "https://www.crowdstrike.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "letsencrypt",
+      "name": "Let's Encrypt",
+      "website": "https://letsencrypt.org",
       "status": "changed",
       "httpStatus": 200
     },
@@ -61,6 +61,27 @@
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "consensys",
+      "name": "ConsenSys",
+      "website": "https://consensys.net/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,9 +100,9 @@
       "httpStatus": 200
     },
     {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -96,6 +117,20 @@
       "id": "buffer",
       "name": "Buffer",
       "website": "https://buffer.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,16 +156,9 @@
       "httpStatus": 200
     },
     {
-      "id": "clootrack",
-      "name": "Clootrack",
-      "website": "https://www.clootrack.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cfpb",
-      "name": "Consumer Financial Protection Bureau",
-      "website": "https://www.consumerfinance.gov",
+      "id": "capgemini",
+      "name": "Capgemini",
+      "website": "https://www.capgemini.com/us-en/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -142,23 +170,16 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "mediacurrent",
+      "name": "Mediacurrent",
+      "website": "https://www.mediacurrent.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -170,23 +191,9 @@
       "httpStatus": 404
     },
     {
-      "id": "clevertech",
-      "name": "Clevertech",
-      "website": "https://clevertech.biz/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "extremenetworks",
-      "name": "Extreme Networks",
-      "website": "https://www.extremenetworks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -205,18 +212,18 @@
       "error": "fetch failed"
     },
     {
-      "id": "episource",
-      "name": "Episource",
-      "website": "https://episource.com",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
       "id": "airtreks",
       "name": "AirTreks",
       "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "episource",
+      "name": "Episource",
+      "website": "https://episource.com",
+      "status": "unreachable",
+      "error": "fetch failed"
     }
   ]
 }
