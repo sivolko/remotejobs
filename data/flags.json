@@ -1,38 +1,10 @@
 {
-  "checkedAt": "2026-10-31",
+  "checkedAt": "2026-11-01",
   "flags": [
     {
       "id": "github",
       "name": "GitHub",
       "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "datadog",
-      "name": "Datadog",
-      "website": "https://www.datadoghq.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "fastly",
-      "name": "Fastly",
-      "website": "https://www.fastly.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,30 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "dashlane",
-      "name": "Dashlane",
-      "website": "https://dashlane.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "consensys",
-      "name": "ConsenSys",
-      "website": "https://consensys.net/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,16 +30,16 @@
       "httpStatus": 200
     },
     {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,20 +51,6 @@
       "httpStatus": 200
     },
     {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coursera",
       "name": "Coursera",
       "website": "https://www.coursera.org/",
@@ -121,44 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "greenstitch",
-      "name": "GreenStitch.io",
-      "website": "https://greenstitch.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "godaddy",
       "name": "GoDaddy",
       "website": "https://www.godaddy.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "mediacurrent",
-      "name": "Mediacurrent",
-      "website": "https://www.mediacurrent.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -184,18 +86,18 @@
       "httpStatus": 200
     },
     {
-      "id": "healthfinch",
-      "name": "Healthfinch",
-      "website": "https://www.healthfinch.com/",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
       "id": "airtreks",
       "name": "AirTreks",
       "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "healthfinch",
+      "name": "Healthfinch",
+      "website": "https://www.healthfinch.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
     },
     {
       "id": "episource",
