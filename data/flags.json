@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06",
+  "checkedAt": "2026-11-07",
   "flags": [
     {
       "id": "github",
@@ -9,16 +9,9 @@
       "httpStatus": 200
     },
     {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crowdstrike",
-      "name": "CrowdStrike",
-      "website": "https://www.crowdstrike.com",
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -26,6 +19,20 @@
       "id": "cloudlinux",
       "name": "CloudLinux",
       "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "fingerprint",
+      "name": "Fingerprint",
+      "website": "https://fingerprint.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "letsencrypt",
+      "name": "Let's Encrypt",
+      "website": "https://letsencrypt.org",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,16 +51,16 @@
       "httpStatus": 200
     },
     {
-      "id": "iohk",
-      "name": "IOHK",
-      "website": "https://iohk.io/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "consensys",
-      "name": "ConsenSys",
-      "website": "https://consensys.net/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,20 +79,6 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "buffer",
       "name": "Buffer",
       "website": "https://buffer.com/",
@@ -93,37 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "klaviyo",
-      "name": "Klaviyo",
-      "website": "https://www.klaviyo.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "helpscout",
-      "name": "Help Scout",
-      "website": "https://www.helpscout.net/",
+      "id": "asana",
+      "name": "Asana",
+      "website": "https://asana.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -135,37 +100,23 @@
       "httpStatus": 200
     },
     {
-      "id": "clickup",
-      "name": "ClickUp",
-      "website": "https://clickup.com/",
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "clootrack",
-      "name": "Clootrack",
-      "website": "https://www.clootrack.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "capgemini",
-      "name": "Capgemini",
-      "website": "https://www.capgemini.com/us-en/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -184,16 +135,16 @@
       "httpStatus": 200
     },
     {
-      "id": "komoot",
-      "name": "Komoot",
-      "website": "https://www.komoot.com",
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "website": "https://www.godaddy.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
+      "id": "komoot",
+      "name": "Komoot",
+      "website": "https://www.komoot.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -205,16 +156,16 @@
       "error": "fetch failed"
     },
     {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "episource",
       "name": "Episource",
       "website": "https://episource.com",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
-      "id": "godaddy",
-      "name": "GoDaddy",
-      "website": "https://www.godaddy.com/",
       "status": "changed",
       "httpStatus": 200
     }
