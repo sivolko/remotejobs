@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-11-10",
+  "checkedAt": "2026-11-11",
   "flags": [
     {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,6 +16,20 @@
       "httpStatus": 200
     },
     {
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "datadog",
+      "name": "Datadog",
+      "website": "https://www.datadoghq.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "crowdstrike",
       "name": "CrowdStrike",
       "website": "https://www.crowdstrike.com",
@@ -23,9 +37,9 @@
       "httpStatus": 200
     },
     {
-      "id": "1password",
-      "name": "1Password",
-      "website": "https://www.1password.com",
+      "id": "auth0",
+      "name": "Auth0",
+      "website": "https://auth0.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -37,16 +51,16 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,9 +79,9 @@
       "httpStatus": 200
     },
     {
-      "id": "capchase",
-      "name": "Capchase",
-      "website": "https://www.capchase.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,16 +93,16 @@
       "httpStatus": 200
     },
     {
-      "id": "buffer",
-      "name": "Buffer",
-      "website": "https://buffer.com/",
+      "id": "metamask",
+      "name": "MetaMask",
+      "website": "https://metamask.io",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
+      "id": "buffer",
+      "name": "Buffer",
+      "website": "https://buffer.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,9 +114,16 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
+      "id": "basecamp",
+      "name": "Basecamp",
+      "website": "https://basecamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "helpscout",
+      "name": "Help Scout",
+      "website": "https://www.helpscout.net/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,9 +135,23 @@
       "httpStatus": 200
     },
     {
-      "id": "godaddy",
-      "name": "GoDaddy",
-      "website": "https://www.godaddy.com/",
+      "id": "clootrack",
+      "name": "Clootrack",
+      "website": "https://www.clootrack.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "greenstitch",
+      "name": "GreenStitch.io",
+      "website": "https://greenstitch.io",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "evilmartians",
+      "name": "Evil Martians",
+      "website": "https://evilmartians.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -124,6 +159,13 @@
       "id": "bairesdev",
       "name": "Bairesdev",
       "website": "https://bairesdev.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "website": "https://www.godaddy.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -163,9 +205,9 @@
       "error": "fetch failed"
     },
     {
-      "id": "episource",
-      "name": "Episource",
-      "website": "https://episource.com",
+      "id": "hopper",
+      "name": "Hopper",
+      "website": "https://www.hopper.com/",
       "status": "changed",
       "httpStatus": 200
     },
