@@ -1,38 +1,10 @@
 {
-  "checkedAt": "2026-11-14",
+  "checkedAt": "2026-11-15",
   "flags": [
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "github",
       "name": "GitHub",
       "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "datadog",
-      "name": "Datadog",
-      "website": "https://www.datadoghq.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "canonical",
-      "name": "Canonical",
-      "website": "https://www.canonical.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,23 +16,9 @@
       "httpStatus": 200
     },
     {
-      "id": "cloudlinux",
-      "name": "CloudLinux",
-      "website": "https://www.cloudlinux.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "coinbase",
       "name": "Coinbase",
       "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "kraken",
-      "name": "Kraken",
-      "website": "https://kraken.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -72,6 +30,13 @@
       "httpStatus": 200
     },
     {
+      "id": "kraken",
+      "name": "Kraken",
+      "website": "https://kraken.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "dappradar",
       "name": "DappRadar",
       "website": "https://dappradar.com/",
@@ -79,30 +44,9 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "hubspot",
-      "name": "HubSpot",
-      "website": "https://www.hubspot.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "buffer",
       "name": "Buffer",
       "website": "https://buffer.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "customerio",
-      "name": "Customer.io",
-      "website": "https://customer.io",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,13 +65,6 @@
       "httpStatus": 200
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "helpscout",
       "name": "Help Scout",
       "website": "https://www.helpscout.net/",
@@ -142,16 +79,9 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "clevertech",
+      "name": "Clevertech",
+      "website": "https://clevertech.biz/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -194,13 +124,6 @@
       "id": "hopper",
       "name": "Hopper",
       "website": "https://www.hopper.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "caremessage",
-      "name": "CareMessage",
-      "website": "https://caremessage.org/careers/",
       "status": "changed",
       "httpStatus": 200
     }
