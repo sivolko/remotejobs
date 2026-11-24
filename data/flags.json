@@ -1,10 +1,31 @@
 {
-  "checkedAt": "2026-11-23",
+  "checkedAt": "2026-11-24",
   "flags": [
     {
       "id": "github",
       "name": "GitHub",
       "website": "https://github.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "website": "https://www.digitalocean.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "elastic",
+      "name": "Elastic",
+      "website": "https://www.elastic.co/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -16,9 +37,16 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "1password",
+      "name": "1Password",
+      "website": "https://www.1password.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,9 +58,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -44,9 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "deel",
-      "name": "Deel",
-      "website": "http://www.deel.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -65,6 +93,20 @@
       "httpStatus": 200
     },
     {
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "mailerlite",
+      "name": "MailerLite",
+      "website": "https://www.mailerlite.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
       "id": "buffer",
       "name": "Buffer",
       "website": "https://buffer.com/",
@@ -72,23 +114,37 @@
       "httpStatus": 200
     },
     {
-      "id": "automattic",
-      "name": "Automattic",
-      "website": "https://automattic.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "greenstitch",
-      "name": "GreenStitch.io",
-      "website": "https://greenstitch.io",
+      "id": "coursera",
+      "name": "Coursera",
+      "website": "https://www.coursera.org/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "cratedb",
+      "name": "CrateDB",
+      "website": "https://cratedb.com",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "bigcartel",
+      "name": "Big Cartel",
+      "website": "https://www.bigcartel.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -107,27 +163,6 @@
       "httpStatus": 200
     },
     {
-      "id": "andela",
-      "name": "Andela",
-      "website": "https://andela.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
@@ -138,6 +173,13 @@
       "id": "bandcamp",
       "name": "Bandcamp",
       "website": "https://bandcamp.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,18 +198,25 @@
       "error": "fetch failed"
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "hopper",
       "name": "Hopper",
       "website": "https://www.hopper.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "doist",
+      "name": "Doist",
+      "website": "https://doist.com",
+      "status": "unreachable",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
     }
   ]
 }
