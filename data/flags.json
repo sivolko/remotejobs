@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-11-26",
+  "checkedAt": "2026-11-27",
   "flags": [
-    {
-      "id": "github",
-      "name": "GitHub",
-      "website": "https://github.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "digitalocean",
       "name": "DigitalOcean",
@@ -16,9 +9,23 @@
       "httpStatus": 200
     },
     {
-      "id": "docker",
-      "name": "Docker",
-      "website": "https://www.docker.com",
+      "id": "github",
+      "name": "GitHub",
+      "website": "https://github.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "circleci",
+      "name": "CircleCI",
+      "website": "https://circleci.com/",
+      "status": "changed",
+      "httpStatus": 200
+    },
+    {
+      "id": "auth0",
+      "name": "Auth0",
+      "website": "https://auth0.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -30,13 +37,6 @@
       "httpStatus": 200
     },
     {
-      "id": "coinbase",
-      "name": "Coinbase",
-      "website": "https://www.coinbase.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "kraken",
       "name": "Kraken",
       "website": "https://kraken.com",
@@ -44,9 +44,9 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
+      "id": "deel",
+      "name": "Deel",
+      "website": "http://www.deel.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,16 +58,16 @@
       "httpStatus": 200
     },
     {
-      "id": "intuit",
-      "name": "Intuit Inc.",
-      "website": "https://www.intuit.com/",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "mailerlite",
-      "name": "MailerLite",
-      "website": "https://www.mailerlite.com",
+      "id": "clickup",
+      "name": "ClickUp",
+      "website": "https://clickup.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -79,13 +79,6 @@
       "httpStatus": 200
     },
     {
-      "id": "homeflic",
-      "name": "HomeFlicWeGrow",
-      "website": "https://www.homeflicwegrow.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "automattic",
       "name": "Automattic",
       "website": "https://automattic.com/",
@@ -93,9 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "intercom",
-      "name": "Intercom",
-      "website": "https://www.intercom.io/",
+      "id": "atlassian",
+      "name": "Atlassian",
+      "website": "https://www.atlassian.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -114,13 +107,6 @@
       "httpStatus": 200
     },
     {
-      "id": "greenstitch",
-      "name": "GreenStitch.io",
-      "website": "https://greenstitch.io",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "clootrack",
       "name": "Clootrack",
       "website": "https://www.clootrack.com/",
@@ -128,23 +114,9 @@
       "httpStatus": 200
     },
     {
-      "id": "generalassembly",
-      "name": "General Assembly",
-      "website": "https://generalassemb.ly/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "evilmartians",
-      "name": "Evil Martians",
-      "website": "https://evilmartians.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "boldare",
-      "name": "Boldare",
-      "website": "https://boldare.com",
+      "id": "andela",
+      "name": "Andela",
+      "website": "https://andela.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -156,16 +128,9 @@
       "httpStatus": 200
     },
     {
-      "id": "bairesdev",
-      "name": "Bairesdev",
-      "website": "https://bairesdev.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "crossover",
-      "name": "Crossover",
-      "website": "https://www.crossover.com",
+      "id": "gft",
+      "name": "GFT",
+      "website": "https://www.gft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -177,18 +142,18 @@
       "httpStatus": 200
     },
     {
-      "id": "akamai",
-      "name": "Akamai",
-      "website": "https://www.akamai.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "ibm",
       "name": "IBM",
       "website": "https://www.ibm.com",
       "status": "broken",
       "httpStatus": 404
+    },
+    {
+      "id": "maxicus",
+      "name": "Maxicus",
+      "website": "https://maxicus.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "bandcamp",
@@ -205,18 +170,18 @@
       "httpStatus": 200
     },
     {
-      "id": "airtreks",
-      "name": "AirTreks",
-      "website": "https://www.airtreks.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "healthfinch",
       "name": "Healthfinch",
       "website": "https://www.healthfinch.com/",
       "status": "unreachable",
       "error": "fetch failed"
+    },
+    {
+      "id": "airtreks",
+      "name": "AirTreks",
+      "website": "https://www.airtreks.com/",
+      "status": "changed",
+      "httpStatus": 200
     },
     {
       "id": "hopper",
