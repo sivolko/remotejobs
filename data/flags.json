@@ -1,13 +1,6 @@
 {
-  "checkedAt": "2026-11-27",
+  "checkedAt": "2026-11-28",
   "flags": [
-    {
-      "id": "digitalocean",
-      "name": "DigitalOcean",
-      "website": "https://www.digitalocean.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
     {
       "id": "github",
       "name": "GitHub",
@@ -16,23 +9,23 @@
       "httpStatus": 200
     },
     {
-      "id": "circleci",
-      "name": "CircleCI",
-      "website": "https://circleci.com/",
+      "id": "cloudlinux",
+      "name": "CloudLinux",
+      "website": "https://www.cloudlinux.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "auth0",
-      "name": "Auth0",
-      "website": "https://auth0.com/",
+      "id": "coinbase",
+      "name": "Coinbase",
+      "website": "https://www.coinbase.com",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "fingerprint",
-      "name": "Fingerprint",
-      "website": "https://fingerprint.com",
+      "id": "emsisoft",
+      "name": "Emsisoft",
+      "website": "https://www.emsisoft.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -58,13 +51,6 @@
       "httpStatus": 200
     },
     {
-      "id": "emsisoft",
-      "name": "Emsisoft",
-      "website": "https://www.emsisoft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
       "id": "clickup",
       "name": "ClickUp",
       "website": "https://clickup.com/",
@@ -86,9 +72,9 @@
       "httpStatus": 200
     },
     {
-      "id": "atlassian",
-      "name": "Atlassian",
-      "website": "https://www.atlassian.com/",
+      "id": "intercom",
+      "name": "Intercom",
+      "website": "https://www.intercom.io/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -100,16 +86,9 @@
       "httpStatus": 200
     },
     {
-      "id": "doist",
-      "name": "Doist",
-      "website": "https://doist.com",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "clootrack",
-      "name": "Clootrack",
-      "website": "https://www.clootrack.com/",
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "website": "https://www.godaddy.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -121,23 +100,16 @@
       "httpStatus": 200
     },
     {
-      "id": "godaddy",
-      "name": "GoDaddy",
-      "website": "https://www.godaddy.com/",
+      "id": "bairesdev",
+      "name": "Bairesdev",
+      "website": "https://bairesdev.com/",
       "status": "changed",
       "httpStatus": 200
     },
     {
-      "id": "gft",
-      "name": "GFT",
-      "website": "https://www.gft.com/",
-      "status": "changed",
-      "httpStatus": 200
-    },
-    {
-      "id": "microsoft",
-      "name": "Microsoft",
-      "website": "https://www.microsoft.com/",
+      "id": "crossover",
+      "name": "Crossover",
+      "website": "https://www.crossover.com",
       "status": "changed",
       "httpStatus": 200
     },
@@ -149,9 +121,9 @@
       "httpStatus": 404
     },
     {
-      "id": "maxicus",
-      "name": "Maxicus",
-      "website": "https://maxicus.com/",
+      "id": "akamai",
+      "name": "Akamai",
+      "website": "https://www.akamai.com/",
       "status": "changed",
       "httpStatus": 200
     },
@@ -170,18 +142,18 @@
       "httpStatus": 200
     },
     {
-      "id": "healthfinch",
-      "name": "Healthfinch",
-      "website": "https://www.healthfinch.com/",
-      "status": "unreachable",
-      "error": "fetch failed"
-    },
-    {
       "id": "airtreks",
       "name": "AirTreks",
       "website": "https://www.airtreks.com/",
       "status": "changed",
       "httpStatus": 200
+    },
+    {
+      "id": "healthfinch",
+      "name": "Healthfinch",
+      "website": "https://www.healthfinch.com/",
+      "status": "unreachable",
+      "error": "fetch failed"
     },
     {
       "id": "hopper",
